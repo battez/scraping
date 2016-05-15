@@ -1,6 +1,10 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
+import logging
+logging.basicConfig(filename="scrapelog.txt", level=logging.INFO)
+
 import os
 
 import urllib2
@@ -74,6 +78,7 @@ class TwitterSearch:
         :param url: URL to search twitter with
         :return: A JSON object with data from Twitter
         """
+        
         try:
             # Specify a user agent to prevent Twitter from returning a profile card
             headers = {
@@ -88,7 +93,9 @@ class TwitterSearch:
         # If we get a ValueError exception due to a request timing out, we sleep for our error delay, then make
         # another attempt
         except ValueError as e:
-            print e.message
+            logging.error(e.message + ' ' + url)
+            print e.message, url
+            
             print "Sleeping for %i" % self.error_delay
             sleep(self.error_delay)
             return self.execute_search(url)
@@ -109,8 +116,7 @@ class TwitterSearch:
             if 'data-item-id' not in li.attrs:
                 continue
 
-            print li
-            exit()
+           
             tweet = {
                 'tweet_id': li['data-item-id'],
                 'text': None,
@@ -220,24 +226,99 @@ class TwitterSearchImpl(TwitterSearch):
                     fmt = "%Y-%m-%d %H:%M:%S"
                     tweet['nice_created_at'] = t.strftime(fmt)
                     # file.write("%i [%s] - %s" % (self.counter, t.strftime(fmt), tweet['text']))
-                    print "%i [%s] - %s" % (self.counter, t.strftime(fmt), tweet['text'])
+                    # print "%i [%s] - %s" % (self.counter, t.strftime(fmt), tweet['text'])
 
-                print tweet, "\n\n"
+                
                 j = json.dumps(tweet, indent=2)
                 print >> file, j 
 
                 
                 # When we've reached our max limit, return False so collection stops
                 if self.counter >= self.max_tweets:
+                    logging.info(" tweets:" + str(self.counter))
                     return False
+
+            logging.info(" tweets:" + str(self.counter))
+
         file.close()
         return True
 
 
+
+
+
 if __name__ == '__main__':
 
-    twit = TwitterSearchImpl(0, 5, 5)
-    q = 'stormhenry since:2016-02-01 until:2016-02-02'
-    q = 'chess'
-    twit.search(q)
+    print 'processing...'
+
+    # set the max_tweets:
+    max_tweets = 5
+    twit = TwitterSearchImpl(0, 5, max_tweets)
+    directory = "query"
+
+    # defaults we will use in queries sometimes
+    since = 'since:2015-09-01 '
+    geocode = 'geocode:56.37655,-3.841994,170km '
+
+    # loop through the log files and write out no comment lines as data
+    # to relevant output file (ie with same no. of fields in its header, 
+    # as the data)
+    total_rows = 0
+    # open folder
+    for root, dirs, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.csv'):
+                # open each csv
+                with open(directory + '\\' + file) as text:
+                    current = os.path.splitext(os.path.basename(file))[0]
+                    # flood lcoation river storm
+                    # loop through terms; combine into a query
+                    q = ''
+                    if current == 'location':
+                        q = 'flood '
+                        
+                    elif current == 'river':
+                        q = 'flood ' + current
+                        
+                    elif current == 'storm' :
+                        pass
+                        
+                    elif current == 'flood':
+                        q = since + geocode + current
+                        pass
+                    else:
+                        pass
+                    
+                    for idx, line in enumerate(text):
+                        if(idx > 0):
+                            if current != 'storm':
+                                if line.strip() not in ['dee', 'deveron']:
+                                    query = q + ' ' + line.strip()
+                            
+                            else:
+                                
+                                pieces = line.split(',')
+                                query = pieces[2].strip() + ' since:' + pieces[0] 
+                            
+                            print query
+                            
+                            # logging.info(q)
+                            # twit.search(q)
+                        
+                    
+                    text.close
+
+  
+
+    # perform search
+    # scratchpad queries:
+    q = '-pee since:2015-10-01 dee flood' # use -pee
+    # q = 'stormhenry since:2016-02-01 until:2016-02-02'
+    # Crieff  lat long radius 170km
+    # q = 'flood geocode:56.37655,-3.841994,170km'
+    # logging.info(q)
+    # q = since + geocode + ' flood'
+    # print q
+    # twit.search(q)
+   
     

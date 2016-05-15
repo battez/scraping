@@ -1,7 +1,8 @@
 # Ignored files
 config.py
 *.json
-
+queried.txt
+scrapelog.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
