@@ -2,6 +2,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+import datetime
+import string
 import logging
 logging.basicConfig(filename="scrapelog.txt", level=logging.INFO)
 
@@ -252,7 +254,7 @@ if __name__ == '__main__':
     print 'processing...'
 
     # set the max_tweets:
-    max_tweets = 5
+    max_tweets = 5000
     twit = TwitterSearchImpl(0, 5, max_tweets)
     directory = "query"
 
@@ -275,9 +277,11 @@ if __name__ == '__main__':
                     # loop through terms; combine into a query
                     q = ''
                     if current == 'location':
+                        continue 
                         q = 'flood '
                         
                     elif current == 'river':
+                        continue 
                         q = 'flood ' + current
                         
                     elif current == 'storm' :
@@ -291,21 +295,27 @@ if __name__ == '__main__':
                     
                     for idx, line in enumerate(text):
                         if(idx > 0):
-                            if current != 'storm':
+                            if current == 'flood':
+                                continue # temp dont try this.
+                            elif current != 'storm':
                                 if line.strip() not in ['dee', 'deveron']:
                                     query = q + ' ' + line.strip()
                             
                             else:
                                 
                                 pieces = line.split(',')
-                                query = pieces[2].strip() + ' since:' + pieces[0] 
+                                pieces[0] = datetime.datetime.strptime(pieces[0], '%d/%m/%Y').strftime('%Y-%m-%d')
+                                # add space
+                                pieces[2] = string.replace(pieces[2], 'storm', 'storm ')
+
+                                # disabled datewise, try geocode for search
+                                # query = pieces[2].strip() + ' since:' + pieces[0] 
+                                query = pieces[2].strip()  
                             
-                            print query
-                            
-                            # logging.info(q)
-                            # twit.search(q)
-                        
-                    
+                            # run the query:
+                            logging.info(query)
+                            twit.search(query)
+                                
                     text.close
 
   
