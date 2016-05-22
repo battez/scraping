@@ -1,3 +1,8 @@
+''' script to scrape tweets down from twitter historical via Web browser interface
+-- adapted from py 2.x.x: Tom Dickinson script:
+-- credit: https://github.com/tomkdickinson/Twitter-Search-API-Python/blob/master/TwitterScraper.py
+
+'''
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -20,10 +25,7 @@ from bs4 import BeautifulSoup
 from time import sleep
 
 # utility library 
-import jlpb
-
-# adapted from py 2.x.x: Tom Dickinson script:
-# credit: https://github.com/tomkdickinson/Twitter-Search-API-Python/blob/master/TwitterScraper.py
+import jlpb, process_tweets
 
 
 class TwitterSearch:
@@ -31,20 +33,20 @@ class TwitterSearch:
     __metaclass__ = ABCMeta
 
     def __init__(self, rate_delay, error_delay=5):
-        """
+        '''
         :param rate_delay: How long to pause between calls to Twitter
         :param error_delay: How long to pause when an error occurs
-        """
+        '''
         self.rate_delay = rate_delay
         self.error_delay = error_delay
         self.json_file = ['filename' ,'json']
 
     def search(self, query):
-        """
+        '''
         Scrape items from twitter
         :param query:   Query to search Twitter with. Takes form of queries constructed with using Twitters
                         advanced search: https://twitter.com/search-advanced
-        """
+        '''
         url = self.construct_url(query)
         # prepare filename
         self.json_file[0] = jlpb.strtr(query, {':':'.', ',':'_', ' ':'_', '#':'HASHTAG', '"':''})
@@ -75,11 +77,11 @@ class TwitterSearch:
                 response = self.execute_search(url)
 
     def execute_search(self, url):
-        """
+        '''
         Executes a search to Twitter for the given URL
         :param url: URL to search twitter with
         :return: A JSON object with data from Twitter
-        """
+        '''
         
         try:
             # Specify a user agent to prevent Twitter from returning a profile card
@@ -105,11 +107,11 @@ class TwitterSearch:
 
     @staticmethod
     def parse_tweets(items_html):
-        """
+        '''
         Parses Tweets from the given HTML
         :param items_html: The HTML block with tweets
         :return: A JSON list of tweets
-        """
+        '''
         soup = BeautifulSoup(items_html, "html.parser", from_encoding="utf-8")
         tweets = []
         for li in soup.find_all("li", class_='js-stream-item'):
@@ -162,12 +164,12 @@ class TwitterSearch:
 
     @staticmethod
     def construct_url(query, max_position=None):
-        """
+        '''
         For a given query, will construct a URL to search Twitter with
         :param query: The query term used to search twitter
         :param max_position: The max_position value to select the next pagination of tweets
         :return: A string URL
-        """
+        '''
 
         params = {
             # Type Param
@@ -185,30 +187,30 @@ class TwitterSearch:
 
     @abstractmethod
     def save_tweets(self, tweets):
-        """
+        '''
         An abstract method that's called with a list of tweets.
         When implementing this class, you can do whatever you want with these tweets.
-        """
+        '''
 
 
 class TwitterSearchImpl(TwitterSearch):
 
     def __init__(self, rate_delay, error_delay, max_tweets):
-        """
+        '''
         :param rate_delay: How long to pause between calls to Twitter
         :param error_delay: How long to pause when an error occurs
         :param max_tweets: Maximum number of tweets to collect for this example
-        """
+        '''
         super(TwitterSearchImpl, self).__init__(rate_delay, error_delay)
         self.max_tweets = max_tweets
         self.counter = 0
 
 
     def save_tweets(self, tweets):
-        """
+        '''
         Save tweets to json file
         :return:
-        """
+        '''
         # store data in a subdirectory:
         script_dir =  os.path.join( os.path.dirname(__file__) , 'json') 
 
@@ -246,79 +248,85 @@ class TwitterSearchImpl(TwitterSearch):
         return True
 
 
-
-
-
+# RUN TASKS:
 if __name__ == '__main__':
 
     print 'processing...'
-
+    exit()
+    
     # set the max_tweets:
     max_tweets = 5000
     twit = TwitterSearchImpl(0, 5, max_tweets)
-    directory = "query"
+    directory = 'query'
 
     # defaults we will use in queries sometimes
-    since = 'since:2015-09-01 '
+    since = 'since:2014-05-01 '
     geocode = 'geocode:56.37655,-3.841994,170km '
+    timelines = True
 
-    # loop through the log files and write out no comment lines as data
-    # to relevant output file (ie with same no. of fields in its header, 
-    # as the data)
-    total_rows = 0
-    # open folder
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if file.endswith('.csv'):
-                # open each csv
-                with open(directory + '\\' + file) as text:
-                    current = os.path.splitext(os.path.basename(file))[0]
-                    # flood lcoation river storm
-                    # loop through terms; combine into a query
-                    q = ''
-                    if current == 'location':
-                        continue 
-                        q = 'flood '
-                        
-                    elif current == 'river':
-                        continue 
-                        q = 'flood ' + current
-                        
-                    elif current == 'storm' :
-                        pass
-                        
-                    elif current == 'flood':
-                        q = since + geocode + current
-                        pass
-                    else:
-                        pass
-                    
-                    for idx, line in enumerate(text):
-                        if(idx > 0):
-                            if current == 'flood':
-                                continue # temp dont try this.
-                            elif current != 'storm':
-                                if line.strip() not in ['dee', 'deveron']:
-                                    query = q + ' ' + line.strip()
+    if(timelines == True):
+        # IMPORT USER IDS AND SCRAPE THEIR TIMELINES SINCE SOME DATE
+        pass
+
+    else: 
+        # IMPORT QUERIES FROM A CSV FILE
+        # loop through the log files and write out no comment lines as data
+        # to relevant output file (ie with same no. of fields in its header, 
+        # as the data)
+        total_rows = 0
+        # open folder
+        for root, dirs, files in os.walk(directory):
+            for file in files:
+                if file.endswith('.csv'):
+                    # open each csv
+                    with open(directory + '\\' + file) as text:
+                        current = os.path.splitext(os.path.basename(file))[0]
+                        # flood lcoation river storm
+                        # loop through terms; combine into a query
+                        q = ''
+                        if current == 'location':
+                            continue 
+                            q = 'flood '
                             
-                            else:
-                                
-                                pieces = line.split(',')
-                                pieces[0] = datetime.datetime.strptime(pieces[0], '%d/%m/%Y').strftime('%Y-%m-%d')
-                                # add space
-                                pieces[2] = string.replace(pieces[2], 'storm', 'storm ')
-
-                                # disabled datewise, try geocode for search
-                                # query = pieces[2].strip() + ' since:' + pieces[0] 
-                                query = pieces[2].strip()  
+                        elif current == 'river':
+                            continue 
+                            q = 'flood ' + current
                             
-                            # run the query:
-                            logging.info(query)
-                            twit.search(query)
+                        elif current == 'storm' :
+                            pass
+                            
+                        elif current == 'flood':
+                            q = since + geocode + current
+                            pass
+                        else:
+                            pass
+                        
+                        for idx, line in enumerate(text):
+                            if(idx > 0):
+                                if current == 'flood':
+                                    continue # temp dont try this.
+                                elif current != 'storm':
+                                    if line.strip() not in ['dee', 'deveron']:
+                                        query = q + ' ' + line.strip()
                                 
-                    text.close
+                                else:
+                                    
+                                    pieces = line.split(',')
+                                    pieces[0] = datetime.datetime.strptime(pieces[0], '%d/%m/%Y').strftime('%Y-%m-%d')
+                                    # add space
+                                    pieces[2] = string.replace(pieces[2], 'storm', 'storm ')
 
-  
+                                    # disabled datewise, try geocode for search
+                                    # query = pieces[2].strip() + ' since:' + pieces[0] 
+                                    query = pieces[2].strip()  
+                                
+                                # run the query:
+                                logging.info(query)
+                                twit.search(query)
+                                    
+                        text.close
+
+      
 
     # perform search
     # scratchpad queries:
