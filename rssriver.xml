@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+	<channel>
+		<title>SEPA River Level Sites</title>
+		<link>http://www.sepa.org.uk/riverlevels</link>
+		<description>River levels sites in Scotland - data supplied by SEPA</description>
+		<language>en-gb</language>
+		<pubDate>Thu, 26th May 2016 12:15:17 GMT</pubDate>
+		<lastBuildDate>Wed, 12th Nov 2014 10:30:00 GMT</lastBuildDate>
+		<generator>SEPA</generator>
+		<managingEditor>webteam@sepa.org.uk (Scottish Environment Protection Agency IS - Web)</managingEditor>
+		<item>
+			<title>Killin</title>
+			<guid>http://apps.sepa.org.uk/14933</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14933</link>
+			<description>Dochart @ Killin</description>
+			<georss:point>56.4581517 -4.3318854</georss:point>
+		</item>
+		<item>
+			<title>Pitnacree</title>
+			<guid>http://apps.sepa.org.uk/14935</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14935</link>
+			<description>Tay @ Pitnacree</description>
+			<georss:point>56.6600571 -3.7569129</georss:point>
+		</item>
+		<item>
+			<title>Caputh</title>
+			<guid>http://apps.sepa.org.uk/14936</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14936</link>
+			<description>Tay @ Caputh</description>
+			<georss:point>56.5391875 -3.4929532</georss:point>
+		</item>
+		<item>
+			<title>Ballathie</title>
+			<guid>http://apps.sepa.org.uk/14937</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14937</link>
+			<description>Tay @ Ballathie</description>
+			<georss:point>56.5144045 -3.3869746</georss:point>
+		</item>
+		<item>
+			<title>Luncarty</title>
+			<guid>http://apps.sepa.org.uk/14940</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14940</link>
+			<description>Ordie Burn @ Luncarty</description>
+			<georss:point>56.4639321 -3.4776463</georss:point>
+		</item>
+		<item>
+			<title>Wester Cardean</title>
+			<guid>http://apps.sepa.org.uk/14944</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14944</link>
+			<description>Isla (Tayside) @ Wester Cardean</description>
+			<georss:point>56.605894 -3.151245</georss:point>
+		</item>
+		<item>
+			<title>Mill Bank</title>
+			<guid>http://apps.sepa.org.uk/14945</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14945</link>
+			<description>Lunan Burn @ Mill Bank</description>
+			<georss:point>56.5450241 -3.3336886</georss:point>
+		</item>
+		<item>
+			<title>Dean Bridge</title>
+			<guid>http://apps.sepa.org.uk/14946</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14946</link>
+			<description>Dean Water @ Dean Bridge</description>
+			<georss:point>56.5988691 -3.1530835</georss:point>
+		</item>
+		<item>
+			<title>Balbrogie</title>
+			<guid>http://apps.sepa.org.uk/14947</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14947</link>
+			<description>Isla (Tayside) @ Balbrogie</description>
+			<georss:point>56.5722477 -3.2408143</georss:point>
+		</item>
+		<item>
+			<title>Moar</title>
+			<guid>http://apps.sepa.org.uk/14949</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14949</link>
+			<description>Lyon @ Moar</description>
+			<georss:point>56.5727537 -4.3889606</georss:point>
+		</item>
+		<item>
+			<title>Camusvrachan</title>
+			<guid>http://apps.sepa.org.uk/14950</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14950</link>
+			<description>Lyon @ Camusvrachan</description>
+			<georss:point>56.6003797 -4.2502096</georss:point>
+		</item>
+		<item>
+			<title>Comrie Bridge</title>
+			<guid>http://apps.sepa.org.uk/14951</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14951</link>
+			<description>Lyon @ Comrie Bridge</description>
+			<georss:point>56.614218 -3.9808758</georss:point>
+		</item>
+		<item>
+			<title>Newton Bridge</title>
+			<guid>http://apps.sepa.org.uk/14953</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14953</link>
+			<description>Almond (Tayside) @ Newton Bridge</description>
+			<georss:point>56.461142 -3.7992444</georss:point>
+		</item>
+		<item>
+			<title>Almondbank</title>
+			<guid>http://apps.sepa.org.uk/14954</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14954</link>
+			<description>Almond (Tayside) @ Almondbank</description>
+			<georss:point>56.4152663 -3.5136083</georss:point>
+		</item>
+		<item>
+			<title>Kindrogan</title>
+			<guid>http://apps.sepa.org.uk/14955</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14955</link>
+			<description>Ardle @ Kindrogan</description>
+			<georss:point>56.7492585 -3.5449429</georss:point>
+		</item>
+		<item>
+			<title>Craighall (Perth)</title>
+			<guid>http://apps.sepa.org.uk/14956</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14956</link>
+			<description>Ericht @ Craighall (Perth)</description>
+			<georss:point>56.609047 -3.347187</georss:point>
+		</item>
+		<item>
+			<title>Killiecrankie</title>
+			<guid>http://apps.sepa.org.uk/14958</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14958</link>
+			<description>Garry (Tayside) @ Killiecrankie</description>
+			<georss:point>56.7502422 -3.799115</georss:point>
+		</item>
+		<item>
+			<title>Marble Lodge</title>
+			<guid>http://apps.sepa.org.uk/14959</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14959</link>
+			<description>Tilt @ Marble Lodge</description>
+			<georss:point>56.8224108 -3.8165522</georss:point>
+		</item>
+		<item>
+			<title>Pitlochry</title>
+			<guid>http://apps.sepa.org.uk/14963</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14963</link>
+			<description>Tummel @ Pitlochry</description>
+			<georss:point>56.6965564 -3.7208067</georss:point>
+		</item>
+		<item>
+			<title>Auchinner</title>
+			<guid>http://apps.sepa.org.uk/14964</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14964</link>
+			<description>Allt Srath a Ghlinne @ Auchinner</description>
+			<georss:point>56.316776 -4.1122689</georss:point>
+		</item>
+		<item>
+			<title>Cultybraggan</title>
+			<guid>http://apps.sepa.org.uk/14965</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14965</link>
+			<description>Ruchill Water @ Cultybraggan</description>
+			<georss:point>56.359715 -4.001448</georss:point>
+		</item>
+		<item>
+			<title>Aberuchill</title>
+			<guid>http://apps.sepa.org.uk/14966</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14966</link>
+			<description>Earn @ Aberuchill</description>
+			<georss:point>56.3707725 -4.0191639</georss:point>
+		</item>
+		<item>
+			<title>Dalginross</title>
+			<guid>http://apps.sepa.org.uk/14967</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14967</link>
+			<description>Earn @ Dalginross</description>
+			<georss:point>56.3751109 -3.9786159</georss:point>
+		</item>
+		<item>
+			<title>Kinkell Bridge</title>
+			<guid>http://apps.sepa.org.uk/14968</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14968</link>
+			<description>Earn @ Kinkell Bridge</description>
+			<georss:point>56.3301786 -3.7270023</georss:point>
+		</item>
+		<item>
+			<title>Aberuthven</title>
+			<guid>http://apps.sepa.org.uk/14969</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14969</link>
+			<description>Ruthven Water @ Aberuthven</description>
+			<georss:point>56.3196736 -3.6586953</georss:point>
+		</item>
+		<item>
+			<title>Forteviot Bridge</title>
+			<guid>http://apps.sepa.org.uk/14970</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14970</link>
+			<description>Earn @ Forteviot Bridge</description>
+			<georss:point>56.3475909 -3.548369</georss:point>
+		</item>
+		<item>
+			<title>Bridge of Earn</title>
+			<guid>http://apps.sepa.org.uk/14971</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14971</link>
+			<description>Earn @ Bridge of Earn</description>
+			<georss:point>56.3497222 -3.4025918</georss:point>
+		</item>
+		<item>
+			<title>Kingledores</title>
+			<guid>http://apps.sepa.org.uk/14972</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14972</link>
+			<description>Tweed @ Kingledores</description>
+			<georss:point>55.5424105 -3.4139554</georss:point>
+		</item>
+		<item>
+			<title>Lyne Ford</title>
+			<guid>http://apps.sepa.org.uk/14973</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14973</link>
+			<description>Tweed @ Lyne Ford</description>
+			<georss:point>55.6447544 -3.2631801</georss:point>
+		</item>
+		<item>
+			<title>Lyne Station</title>
+			<guid>http://apps.sepa.org.uk/14974</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14974</link>
+			<description>Lyne Water @ Lyne Station</description>
+			<georss:point>55.6473811 -3.2576553</georss:point>
+		</item>
+		<item>
+			<title>Shiplaw</title>
+			<guid>http://apps.sepa.org.uk/14975</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14975</link>
+			<description>Eddleston Water @ Shiplaw</description>
+			<georss:point>55.7281862 -3.2078008</georss:point>
+		</item>
+		<item>
+			<title>March Street</title>
+			<guid>http://apps.sepa.org.uk/14976</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14976</link>
+			<description>Eddleston Water @ March Street</description>
+			<georss:point>55.6551961 -3.1912959</georss:point>
+		</item>
+		<item>
+			<title>Cademuir</title>
+			<guid>http://apps.sepa.org.uk/14977</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14977</link>
+			<description>Manor Water @ Cademuir</description>
+			<georss:point>55.6192875 -3.2448142</georss:point>
+		</item>
+		<item>
+			<title>Peebles</title>
+			<guid>http://apps.sepa.org.uk/14979</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14979</link>
+			<description>Tweed @ Peebles</description>
+			<georss:point>55.6480062 -3.1802562</georss:point>
+		</item>
+		<item>
+			<title>Innerleithen</title>
+			<guid>http://apps.sepa.org.uk/14980</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14980</link>
+			<description>Tweed @ Innerleithen</description>
+			<georss:point>55.6133055 -3.058839</georss:point>
+		</item>
+		<item>
+			<title>Craig Douglas</title>
+			<guid>http://apps.sepa.org.uk/14983</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14983</link>
+			<description>Yarrow Water @ Craig Douglas</description>
+			<georss:point>55.508574 -3.1265346</georss:point>
+		</item>
+		<item>
+			<title>Gordon Arms</title>
+			<guid>http://apps.sepa.org.uk/14984</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14984</link>
+			<description>Yarrow Water @ Gordon Arms</description>
+			<georss:point>55.5116672 -3.0956173</georss:point>
+		</item>
+		<item>
+			<title>Philiphaugh</title>
+			<guid>http://apps.sepa.org.uk/14985</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14985</link>
+			<description>Yarrow Water @ Philiphaugh</description>
+			<georss:point>55.5396957 -2.8903449</georss:point>
+		</item>
+		<item>
+			<title>Deephope</title>
+			<guid>http://apps.sepa.org.uk/14986</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14986</link>
+			<description>Tima Water @ Deephope</description>
+			<georss:point>55.4119784 -3.1416326</georss:point>
+		</item>
+		<item>
+			<title>Brockhoperig</title>
+			<guid>http://apps.sepa.org.uk/14987</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14987</link>
+			<description>Ettrick Water @ Brockhoperig</description>
+			<georss:point>55.4062785 -3.2110692</georss:point>
+		</item>
+		<item>
+			<title>Lindean</title>
+			<guid>http://apps.sepa.org.uk/14990</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14990</link>
+			<description>Ettrick Water @ Lindean</description>
+			<georss:point>55.5746898 -2.8175451</georss:point>
+		</item>
+		<item>
+			<title>Fountainhall</title>
+			<guid>http://apps.sepa.org.uk/14991</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14991</link>
+			<description>Gala Water @ Fountainhall</description>
+			<georss:point>55.7366087 -2.9068646</georss:point>
+		</item>
+		<item>
+			<title>Lauder (New Mills)</title>
+			<guid>http://apps.sepa.org.uk/14996</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14996</link>
+			<description>Leader Water @ Lauder (New Mills)</description>
+			<georss:point>55.7394565 -2.757057</georss:point>
+		</item>
+		<item>
+			<title>Earlston</title>
+			<guid>http://apps.sepa.org.uk/14997</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14997</link>
+			<description>Leader Water @ Earlston</description>
+			<georss:point>55.6407993 -2.6929229</georss:point>
+		</item>
+		<item>
+			<title>Teviothead</title>
+			<guid>http://apps.sepa.org.uk/14999</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14999</link>
+			<description>Teviot @ Teviothead</description>
+			<georss:point>55.3418431 -2.9363722</georss:point>
+		</item>
+		<item>
+			<title>Hawick</title>
+			<guid>http://apps.sepa.org.uk/15001</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15001</link>
+			<description>Teviot @ Hawick</description>
+			<georss:point>55.4343669 -2.7564684</georss:point>
+		</item>
+		<item>
+			<title>Ancrum</title>
+			<guid>http://apps.sepa.org.uk/15002</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15002</link>
+			<description>Ale Water @ Ancrum</description>
+			<georss:point>55.5122795 -2.5808468</georss:point>
+		</item>
+		<item>
+			<title>Chesters</title>
+			<guid>http://apps.sepa.org.uk/15004</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15004</link>
+			<description>Jed Water @ Chesters</description>
+			<georss:point>55.3783057 -2.5900076</georss:point>
+		</item>
+		<item>
+			<title>Jedburgh</title>
+			<guid>http://apps.sepa.org.uk/15006</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15006</link>
+			<description>Jed Water @ Jedburgh</description>
+			<georss:point>55.4848993 -2.5460747</georss:point>
+		</item>
+		<item>
+			<title>Ormiston Mill</title>
+			<guid>http://apps.sepa.org.uk/15007</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15007</link>
+			<description>Teviot @ Ormiston Mill</description>
+			<georss:point>55.5451344 -2.4733739</georss:point>
+		</item>
+		<item>
+			<title>Boleside</title>
+			<guid>http://apps.sepa.org.uk/15008</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15008</link>
+			<description>Tweed @ Boleside</description>
+			<georss:point>55.5914168 -2.7977102</georss:point>
+		</item>
+		<item>
+			<title>Sprouston</title>
+			<guid>http://apps.sepa.org.uk/15012</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15012</link>
+			<description>Tweed @ Sprouston</description>
+			<georss:point>55.6116072 -2.3948323</georss:point>
+		</item>
+		<item>
+			<title>Coldstream</title>
+			<guid>http://apps.sepa.org.uk/15013</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15013</link>
+			<description>Leet Water @ Coldstream</description>
+			<georss:point>55.6501355 -2.2561324</georss:point>
+		</item>
+		<item>
+			<title>Grantshouse</title>
+			<guid>http://apps.sepa.org.uk/15015</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15015</link>
+			<description>Eye Water @ Grantshouse</description>
+			<georss:point>55.882621 -2.2928618</georss:point>
+		</item>
+		<item>
+			<title>Eyemouth Mill</title>
+			<guid>http://apps.sepa.org.uk/15017</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15017</link>
+			<description>Eye Water @ Eyemouth Mill</description>
+			<georss:point>55.865224 -2.0944905</georss:point>
+		</item>
+		<item>
+			<title>Broxmouth</title>
+			<guid>http://apps.sepa.org.uk/15029</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15029</link>
+			<description>Brox Burn (East Lothian) @ Broxmouth</description>
+			<georss:point>55.9907667 -2.486775</georss:point>
+		</item>
+		<item>
+			<title>Abbey St Bathans</title>
+			<guid>http://apps.sepa.org.uk/15018</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15018</link>
+			<description>Whiteadder Water @ Abbey St Bathans</description>
+			<georss:point>55.8534383 -2.3869805</georss:point>
+		</item>
+		<item>
+			<title>Hutton Castle</title>
+			<guid>http://apps.sepa.org.uk/15020</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15020</link>
+			<description>Whiteadder Water @ Hutton Castle</description>
+			<georss:point>55.7882807 -2.1917067</georss:point>
+		</item>
+		<item>
+			<title>Mouthbridge</title>
+			<guid>http://apps.sepa.org.uk/15022</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=15022</link>
+			<description>Blackadder Water @ Mouthbridge</description>
+			<georss:point>55.7702683 -2.2794745</georss:point>
+		</item>
+		<item>
+			<title>Balnafoich</title>
+			<guid>http://apps.sepa.org.uk/206846</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=206846</link>
+			<description>Nairn @ Balnafoich</description>
+			<georss:point>57.3877998 -4.1883466</georss:point>
+		</item>
+		<item>
+			<title>Avochie</title>
+			<guid>http://apps.sepa.org.uk/234161</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234161</link>
+			<description>Deveron @ Avochie</description>
+			<georss:point>57.5056293 -2.7823921</georss:point>
+		</item>
+		<item>
+			<title>Arcan Spillway</title>
+			<guid>http://apps.sepa.org.uk/234154</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234154</link>
+			<description>Conon @ Arcan Spillway</description>
+			<georss:point>57.5533112 -4.5509251</georss:point>
+		</item>
+		<item>
+			<title>Ardachy Bridge</title>
+			<guid>http://apps.sepa.org.uk/234155</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234155</link>
+			<description>Tarff @ Ardachy Bridge</description>
+			<georss:point>57.1295058 -4.6782169</georss:point>
+		</item>
+		<item>
+			<title>Ariundle</title>
+			<guid>http://apps.sepa.org.uk/234157</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234157</link>
+			<description>Strontian @ Ariundle</description>
+			<georss:point>56.7072041 -5.5567927</georss:point>
+		</item>
+		<item>
+			<title>Aberlour</title>
+			<guid>http://apps.sepa.org.uk/234150</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234150</link>
+			<description>Spey @ Aberlour</description>
+			<georss:point>57.4802034 -3.2059849</georss:point>
+		</item>
+		<item>
+			<title>Allnabad</title>
+			<guid>http://apps.sepa.org.uk/234151</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234151</link>
+			<description>Strathmore @ Allnabad</description>
+			<georss:point>58.3471598 -4.6446523</georss:point>
+		</item>
+		<item>
+			<title>Alness</title>
+			<guid>http://apps.sepa.org.uk/234152</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234152</link>
+			<description>Alness @ Alness</description>
+			<georss:point>57.6959945 -4.2587793</georss:point>
+		</item>
+		<item>
+			<title>Apigill</title>
+			<guid>http://apps.sepa.org.uk/234153</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234153</link>
+			<description>Naver @ Apigill</description>
+			<georss:point>58.4800572 -4.2077751</georss:point>
+		</item>
+		<item>
+			<title>Balnaan</title>
+			<guid>http://apps.sepa.org.uk/234163</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234163</link>
+			<description>Dulnain @ Balnaan</description>
+			<georss:point>57.3019429 -3.6991286</georss:point>
+		</item>
+		<item>
+			<title>Boat o  Brig</title>
+			<guid>http://apps.sepa.org.uk/234167</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234167</link>
+			<description>Spey @ Boat o  Brig</description>
+			<georss:point>57.5510259 -3.1403968</georss:point>
+		</item>
+		<item>
+			<title>Boat of Garten</title>
+			<guid>http://apps.sepa.org.uk/234168</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234168</link>
+			<description>Spey @ Boat of Garten</description>
+			<georss:point>57.251377 -3.7470424</georss:point>
+		</item>
+		<item>
+			<title>Bridge of Oich</title>
+			<guid>http://apps.sepa.org.uk/234172</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234172</link>
+			<description>Loch Oich @ Bridge of Oich</description>
+			<georss:point>57.0922805 -4.7442806</georss:point>
+		</item>
+		<item>
+			<title>Brodie</title>
+			<guid>http://apps.sepa.org.uk/234173</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234173</link>
+			<description>Muckle Burn @ Brodie</description>
+			<georss:point>57.5924328 -3.7088925</georss:point>
+		</item>
+		<item>
+			<title>Bruachrobie</title>
+			<guid>http://apps.sepa.org.uk/234174</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234174</link>
+			<description>Brora @ Bruachrobie</description>
+			<georss:point>58.0105412 -3.877585</georss:point>
+		</item>
+		<item>
+			<title>Cabrach</title>
+			<guid>http://apps.sepa.org.uk/234176</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234176</link>
+			<description>Allt Deveron @ Cabrach</description>
+			<georss:point>57.3481455 -3.0345755</georss:point>
+		</item>
+		<item>
+			<title>Camisky</title>
+			<guid>http://apps.sepa.org.uk/234178</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234178</link>
+			<description>Lochy (Lochaber) @ Camisky</description>
+			<georss:point>56.8770137 -5.0505959</georss:point>
+		</item>
+		<item>
+			<title>Conon Bridge</title>
+			<guid>http://apps.sepa.org.uk/234185</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234185</link>
+			<description>Conon @ Conon Bridge</description>
+			<georss:point>57.5694131 -4.4405537</georss:point>
+		</item>
+		<item>
+			<title>Culfork</title>
+			<guid>http://apps.sepa.org.uk/234191</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234191</link>
+			<description>Don @ Culfork</description>
+			<georss:point>57.1802112 -3.1101737</georss:point>
+		</item>
+		<item>
+			<title>Alford</title>
+			<guid>http://apps.sepa.org.uk/234170</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234170</link>
+			<description>Don @ Alford</description>
+			<georss:point>57.242289 -2.7171327</georss:point>
+		</item>
+		<item>
+			<title>Clachnaharry</title>
+			<guid>http://apps.sepa.org.uk/234184</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234184</link>
+			<description>Beauly Firth @ Clachnaharry</description>
+			<georss:point>57.4904834 -4.2630208</georss:point>
+		</item>
+		<item>
+			<title>Corpach</title>
+			<guid>http://apps.sepa.org.uk/234187</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234187</link>
+			<description>Loch Linnhe @ Corpach</description>
+			<georss:point>56.8417818 -5.1238353</georss:point>
+		</item>
+		<item>
+			<title>Craigard</title>
+			<guid>http://apps.sepa.org.uk/234189</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234189</link>
+			<description>Garry (Ness) @ Craigard</description>
+			<georss:point>57.065555 -4.8221508</georss:point>
+		</item>
+		<item>
+			<title>Creed Bridge</title>
+			<guid>http://apps.sepa.org.uk/234190</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234190</link>
+			<description>Creed @ Creed Bridge</description>
+			<georss:point>58.2045085 -6.4242712</georss:point>
+		</item>
+		<item>
+			<title>Cullen</title>
+			<guid>http://apps.sepa.org.uk/234192</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234192</link>
+			<description>Burn of Deskford @ Cullen</description>
+			<georss:point>57.6871066 -2.8332375</georss:point>
+		</item>
+		<item>
+			<title>Delnashaugh</title>
+			<guid>http://apps.sepa.org.uk/234198</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234198</link>
+			<description>Avon (Spey) @ Delnashaugh</description>
+			<georss:point>57.3996935 -3.3578558</georss:point>
+		</item>
+		<item>
+			<title>Diriebught House</title>
+			<guid>http://apps.sepa.org.uk/234200</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234200</link>
+			<description>Mill Burn @ Diriebught House</description>
+			<georss:point>57.4782842 -4.2070648</georss:point>
+		</item>
+		<item>
+			<title>Dosmucheran</title>
+			<guid>http://apps.sepa.org.uk/234202</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234202</link>
+			<description>Bran @ Dosmucheran</description>
+			<georss:point>57.5958537 -5.0057912</georss:point>
+		</item>
+		<item>
+			<title>Dunphail</title>
+			<guid>http://apps.sepa.org.uk/234206</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234206</link>
+			<description>Divie @ Dunphail</description>
+			<georss:point>57.5114955 -3.6618011</georss:point>
+		</item>
+		<item>
+			<title>Durkadale</title>
+			<guid>http://apps.sepa.org.uk/234207</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234207</link>
+			<description>Durkadale Burn @ Durkadale</description>
+			<georss:point>59.1085207 -3.2321902</georss:point>
+		</item>
+		<item>
+			<title>Easter Turnaig</title>
+			<guid>http://apps.sepa.org.uk/234209</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234209</link>
+			<description>Oykel @ Easter Turnaig</description>
+			<georss:point>57.9618312 -4.7008839</georss:point>
+		</item>
+		<item>
+			<title>Ellon</title>
+			<guid>http://apps.sepa.org.uk/234210</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234210</link>
+			<description>Ythan @ Ellon</description>
+			<georss:point>57.3637561 -2.0900225</georss:point>
+		</item>
+		<item>
+			<title>Fasnakyle</title>
+			<guid>http://apps.sepa.org.uk/234215</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234215</link>
+			<description>Glass @ Fasnakyle</description>
+			<georss:point>57.3180921 -4.7992862</georss:point>
+		</item>
+		<item>
+			<title>Feshie Bridge</title>
+			<guid>http://apps.sepa.org.uk/234217</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234217</link>
+			<description>Feshie @ Feshie Bridge</description>
+			<georss:point>57.1188849 -3.9010975</georss:point>
+		</item>
+		<item>
+			<title>Firhall</title>
+			<guid>http://apps.sepa.org.uk/234218</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234218</link>
+			<description>Nairn @ Firhall</description>
+			<georss:point>57.5717102 -3.8702739</georss:point>
+		</item>
+		<item>
+			<title>Forres</title>
+			<guid>http://apps.sepa.org.uk/234221</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234221</link>
+			<description>Findhorn @ Forres</description>
+			<georss:point>57.6047565 -3.6440975</georss:point>
+		</item>
+		<item>
+			<title>Garve</title>
+			<guid>http://apps.sepa.org.uk/234225</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234225</link>
+			<description>Blackwater @ Garve</description>
+			<georss:point>57.616678 -4.6880477</georss:point>
+		</item>
+		<item>
+			<title>Glenmeanie</title>
+			<guid>http://apps.sepa.org.uk/234227</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234227</link>
+			<description>Meig @ Glenmeanie</description>
+			<georss:point>57.5325958 -4.8637927</georss:point>
+		</item>
+		<item>
+			<title>Grange</title>
+			<guid>http://apps.sepa.org.uk/234228</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234228</link>
+			<description>Isla (Deveron) @ Grange</description>
+			<georss:point>57.5427835 -2.8477834</georss:point>
+		</item>
+		<item>
+			<title>Grantown</title>
+			<guid>http://apps.sepa.org.uk/234229</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234229</link>
+			<description>Spey @ Grantown</description>
+			<georss:point>57.3213117 -3.6076856</georss:point>
+		</item>
+		<item>
+			<title>Halladale</title>
+			<guid>http://apps.sepa.org.uk/234232</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234232</link>
+			<description>Halladale @ Halladale</description>
+			<georss:point>58.4787963 -3.9030433</georss:point>
+		</item>
+		<item>
+			<title>Haughton</title>
+			<guid>http://apps.sepa.org.uk/234235</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234235</link>
+			<description>Don @ Haughton</description>
+			<georss:point>57.2713323 -2.4049724</georss:point>
+		</item>
+		<item>
+			<title>Invergairn</title>
+			<guid>http://apps.sepa.org.uk/234243</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234243</link>
+			<description>Gairn @ Invergairn</description>
+			<georss:point>57.0599134 -3.0695458</georss:point>
+		</item>
+		<item>
+			<title>Halkirk</title>
+			<guid>http://apps.sepa.org.uk/234231</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234231</link>
+			<description>Thurso @ Halkirk</description>
+			<georss:point>58.5154837 -3.4930247</georss:point>
+		</item>
+		<item>
+			<title>Inveran</title>
+			<guid>http://apps.sepa.org.uk/234240</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234240</link>
+			<description>Shin @ Inveran</description>
+			<georss:point>57.9431717 -4.4104059</georss:point>
+		</item>
+		<item>
+			<title>Inverbroom</title>
+			<guid>http://apps.sepa.org.uk/234242</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234242</link>
+			<description>Broom @ Inverbroom</description>
+			<georss:point>57.8104504 -5.0582609</georss:point>
+		</item>
+		<item>
+			<title>Heugh Head</title>
+			<guid>http://apps.sepa.org.uk/234237</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234237</link>
+			<description>Feugh @ Heugh Head</description>
+			<georss:point>57.0252326 -2.5171705</georss:point>
+		</item>
+		<item>
+			<title>Inverbervie</title>
+			<guid>http://apps.sepa.org.uk/234241</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234241</link>
+			<description>Bervie @ Inverbervie</description>
+			<georss:point>56.8514278 -2.2861302</georss:point>
+		</item>
+		<item>
+			<title>Invermuick</title>
+			<guid>http://apps.sepa.org.uk/234247</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234247</link>
+			<description>Muick @ Invermuick</description>
+			<georss:point>57.0395028 -3.0493153</georss:point>
+		</item>
+		<item>
+			<title>Invertruim</title>
+			<guid>http://apps.sepa.org.uk/234248</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234248</link>
+			<description>Spey @ Invertruim</description>
+			<georss:point>57.0401576 -4.1645066</georss:point>
+		</item>
+		<item>
+			<title>Inverugie</title>
+			<guid>http://apps.sepa.org.uk/234249</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234249</link>
+			<description>Ugie @ Inverugie</description>
+			<georss:point>57.5266768 -1.8327949</georss:point>
+		</item>
+		<item>
+			<title>Kerrow Wood</title>
+			<guid>http://apps.sepa.org.uk/234251</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234251</link>
+			<description>Glass @ Kerrow Wood</description>
+			<georss:point>57.3493579 -4.7364467</georss:point>
+		</item>
+		<item>
+			<title>Killilan</title>
+			<guid>http://apps.sepa.org.uk/234252</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234252</link>
+			<description>Ling @ Killilan</description>
+			<georss:point>57.3187965 -5.4248548</georss:point>
+		</item>
+		<item>
+			<title>Kilphedir</title>
+			<guid>http://apps.sepa.org.uk/234253</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234253</link>
+			<description>Helmsdale @ Kilphedir</description>
+			<georss:point>58.1409866 -3.7029679</georss:point>
+		</item>
+		<item>
+			<title>Levishie</title>
+			<guid>http://apps.sepa.org.uk/234262</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234262</link>
+			<description>Moriston @ Levishie</description>
+			<georss:point>57.2200205 -4.6478512</georss:point>
+		</item>
+		<item>
+			<title>Kincraig</title>
+			<guid>http://apps.sepa.org.uk/234254</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234254</link>
+			<description>Spey @ Kincraig</description>
+			<georss:point>57.1267919 -3.925227</georss:point>
+		</item>
+		<item>
+			<title>Kinrara</title>
+			<guid>http://apps.sepa.org.uk/234257</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234257</link>
+			<description>Spey @ Kinrara</description>
+			<georss:point>57.1509876 -3.8512815</georss:point>
+		</item>
+		<item>
+			<title>Laxford Bridge</title>
+			<guid>http://apps.sepa.org.uk/234260</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234260</link>
+			<description>Laxford @ Laxford Bridge</description>
+			<georss:point>58.3722005 -4.9914947</georss:point>
+		</item>
+		<item>
+			<title>Mill of Tore</title>
+			<guid>http://apps.sepa.org.uk/234277</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234277</link>
+			<description>Enrick @ Mill of Tore</description>
+			<georss:point>57.3338783 -4.5758489</georss:point>
+		</item>
+		<item>
+			<title>Little Assynt</title>
+			<guid>http://apps.sepa.org.uk/234264</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234264</link>
+			<description>Inver @ Little Assynt</description>
+			<georss:point>58.1741009 -5.1526373</georss:point>
+		</item>
+		<item>
+			<title>Loch Naver</title>
+			<guid>http://apps.sepa.org.uk/234268</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234268</link>
+			<description>Loch Naver @ Loch Naver</description>
+			<georss:point>58.2856962 -4.3897448</georss:point>
+		</item>
+		<item>
+			<title>Mar Lodge</title>
+			<guid>http://apps.sepa.org.uk/234274</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234274</link>
+			<description>Dee (Grampian) @ Mar Lodge</description>
+			<georss:point>56.9880285 -3.4862098</georss:point>
+		</item>
+		<item>
+			<title>Minmore</title>
+			<guid>http://apps.sepa.org.uk/234279</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234279</link>
+			<description>Livet @ Minmore</description>
+			<georss:point>57.3444996 -3.3282341</georss:point>
+		</item>
+		<item>
+			<title>Moy Bridge</title>
+			<guid>http://apps.sepa.org.uk/234284</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234284</link>
+			<description>Conon @ Moy Bridge</description>
+			<georss:point>57.5565603 -4.5399846</georss:point>
+		</item>
+		<item>
+			<title>Muiresk</title>
+			<guid>http://apps.sepa.org.uk/234286</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234286</link>
+			<description>Deveron @ Muiresk</description>
+			<georss:point>57.5376509 -2.4935409</georss:point>
+		</item>
+		<item>
+			<title>Ness-side</title>
+			<guid>http://apps.sepa.org.uk/234287</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234287</link>
+			<description>Ness @ Ness-side</description>
+			<georss:point>57.4545203 -4.2598638</georss:point>
+		</item>
+		<item>
+			<title>New Kelso</title>
+			<guid>http://apps.sepa.org.uk/234289</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234289</link>
+			<description>Carron (Wester Ross) @ New Kelso</description>
+			<georss:point>57.4295133 -5.4300214</georss:point>
+		</item>
+		<item>
+			<title>Park</title>
+			<guid>http://apps.sepa.org.uk/234291</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234291</link>
+			<description>Dee (Grampian) @ Park</description>
+			<georss:point>57.07541 -2.335834</georss:point>
+		</item>
+		<item>
+			<title>Parkhill</title>
+			<guid>http://apps.sepa.org.uk/234292</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234292</link>
+			<description>Don @ Parkhill</description>
+			<georss:point>57.2183066 -2.1875932</georss:point>
+		</item>
+		<item>
+			<title>Pitcaple</title>
+			<guid>http://apps.sepa.org.uk/234293</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234293</link>
+			<description>Urie @ Pitcaple</description>
+			<georss:point>57.3235041 -2.4648782</georss:point>
+		</item>
+		<item>
+			<title>Polhollick</title>
+			<guid>http://apps.sepa.org.uk/234294</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234294</link>
+			<description>Dee (Grampian) @ Polhollick</description>
+			<georss:point>57.0551336 -3.0831911</georss:point>
+		</item>
+		<item>
+			<title>Polloch</title>
+			<guid>http://apps.sepa.org.uk/234295</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234295</link>
+			<description>Allt Coire nan Con @ Polloch</description>
+			<georss:point>56.7584299 -5.6136743</georss:point>
+		</item>
+		<item>
+			<title>Poolewe</title>
+			<guid>http://apps.sepa.org.uk/234296</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234296</link>
+			<description>Ewe @ Poolewe</description>
+			<georss:point>57.761418 -5.5991063</georss:point>
+		</item>
+		<item>
+			<title>Red Bridge</title>
+			<guid>http://apps.sepa.org.uk/234297</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234297</link>
+			<description>Beauly @ Red Bridge</description>
+			<georss:point>57.4545931 -4.4945942</georss:point>
+		</item>
+		<item>
+			<title>Redcraig</title>
+			<guid>http://apps.sepa.org.uk/234298</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234298</link>
+			<description>Bogie @ Redcraig</description>
+			<georss:point>57.4247425 -2.8020233</georss:point>
+		</item>
+		<item>
+			<title>Rosehall</title>
+			<guid>http://apps.sepa.org.uk/234300</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234300</link>
+			<description>Cassley @ Rosehall</description>
+			<georss:point>57.9820822 -4.5861734</georss:point>
+		</item>
+		<item>
+			<title>Sgodachail</title>
+			<guid>http://apps.sepa.org.uk/234305</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234305</link>
+			<description>Carron (Sutherland) @ Sgodachail</description>
+			<georss:point>57.8931926 -4.5467072</georss:point>
+		</item>
+		<item>
+			<title>Shenachie</title>
+			<guid>http://apps.sepa.org.uk/234306</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234306</link>
+			<description>Findhorn @ Shenachie</description>
+			<georss:point>57.3771591 -3.9548349</georss:point>
+		</item>
+		<item>
+			<title>Sheriffmills</title>
+			<guid>http://apps.sepa.org.uk/234307</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234307</link>
+			<description>Lossie @ Sheriffmills</description>
+			<georss:point>57.6463543 -3.3519412</georss:point>
+		</item>
+		<item>
+			<title>Shielfoot</title>
+			<guid>http://apps.sepa.org.uk/234310</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234310</link>
+			<description>Shiel @ Shielfoot</description>
+			<georss:point>56.7639265 -5.8204649</georss:point>
+		</item>
+		<item>
+			<title>Skeabost</title>
+			<guid>http://apps.sepa.org.uk/234313</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234313</link>
+			<description>Snizort @ Skeabost</description>
+			<georss:point>57.4543433 -6.3112588</georss:point>
+		</item>
+		<item>
+			<title>Sluggan</title>
+			<guid>http://apps.sepa.org.uk/234314</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234314</link>
+			<description>Dulnain @ Sluggan</description>
+			<georss:point>57.2730387 -3.8772594</georss:point>
+		</item>
+		<item>
+			<title>Spey Dam</title>
+			<guid>http://apps.sepa.org.uk/234315</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234315</link>
+			<description>Spey @ Spey Dam</description>
+			<georss:point>57.0111958 -4.3363801</georss:point>
+		</item>
+		<item>
+			<title>Strathpeffer</title>
+			<guid>http://apps.sepa.org.uk/234316</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234316</link>
+			<description>Peffery @ Strathpeffer</description>
+			<georss:point>57.5929611 -4.5230609</georss:point>
+		</item>
+		<item>
+			<title>Struy</title>
+			<guid>http://apps.sepa.org.uk/234321</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234321</link>
+			<description>Farrar @ Struy</description>
+			<georss:point>57.4256788 -4.6824194</georss:point>
+		</item>
+		<item>
+			<title>Strathy Bridge</title>
+			<guid>http://apps.sepa.org.uk/234319</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234319</link>
+			<description>Strathy @ Strathy Bridge</description>
+			<georss:point>58.5587068 -4.0026296</georss:point>
+		</item>
+		<item>
+			<title>Torwinny</title>
+			<guid>http://apps.sepa.org.uk/234326</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234326</link>
+			<description>Lossie @ Torwinny</description>
+			<georss:point>57.5219681 -3.4468543</georss:point>
+		</item>
+		<item>
+			<title>Tarroul</title>
+			<guid>http://apps.sepa.org.uk/234324</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234324</link>
+			<description>Wick @ Tarroul</description>
+			<georss:point>58.4761817 -3.2670781</georss:point>
+		</item>
+		<item>
+			<title>Tromie Bridge</title>
+			<guid>http://apps.sepa.org.uk/234327</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234327</link>
+			<description>Tromie @ Tromie Bridge</description>
+			<georss:point>57.0717045 -3.9986528</georss:point>
+		</item>
+		<item>
+			<title>Wardend Bridge</title>
+			<guid>http://apps.sepa.org.uk/234331</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234331</link>
+			<description>Mosset Burn @ Wardend Bridge</description>
+			<georss:point>57.5823798 -3.6083473</georss:point>
+		</item>
+		<item>
+			<title>Woodend</title>
+			<guid>http://apps.sepa.org.uk/234333</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234333</link>
+			<description>Dee (Grampian) @ Woodend</description>
+			<georss:point>57.0501158 -2.6035773</georss:point>
+		</item>
+		<item>
+			<title>Borgie Bridge</title>
+			<guid>http://apps.sepa.org.uk/234334</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=234334</link>
+			<description>Borgie @ Borgie Bridge</description>
+			<georss:point>58.4956039 -4.2880356</georss:point>
+		</item>
+		<item>
+			<title>Eas Daimh</title>
+			<guid>http://apps.sepa.org.uk/133081</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133081</link>
+			<description>Eas Daimh @ Eas Daimh</description>
+			<georss:point>56.4077068 -4.8558921</georss:point>
+		</item>
+		<item>
+			<title>Biggar Burn</title>
+			<guid>http://apps.sepa.org.uk/368536</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368536</link>
+			<description>Biggar Burn @ Biggar Burn</description>
+			<georss:point>55.6502008 -3.5439358</georss:point>
+		</item>
+		<item>
+			<title>Allt a' Ghlas-charnaich</title>
+			<guid>http://apps.sepa.org.uk/368538</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368538</link>
+			<description>Allt a Ghlas-chamaich @ Allt a' Ghlas-charnaich</description>
+			<georss:point>57.7093532 -4.8360651</georss:point>
+		</item>
+		<item>
+			<title>Carron (Stonehaven)</title>
+			<guid>http://apps.sepa.org.uk/320374</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=320374</link>
+			<description>Carron Water @ Carron (Stonehaven)</description>
+			<georss:point>56.9621972 -2.2162173</georss:point>
+		</item>
+		<item>
+			<title>Abington</title>
+			<guid>http://apps.sepa.org.uk/322551</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=322551</link>
+			<description>Clyde @ Abington</description>
+			<georss:point>55.4869164 -3.6905755</georss:point>
+		</item>
+		<item>
+			<title>Howard Park</title>
+			<guid>http://apps.sepa.org.uk/322555</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=322555</link>
+			<description>Kilmarnock Water @ Howard Park</description>
+			<georss:point>55.6048162 -4.4992797</georss:point>
+		</item>
+		<item>
+			<title>Avonbank</title>
+			<guid>http://apps.sepa.org.uk/322556</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=322556</link>
+			<description>Avon Water @ Avonbank</description>
+			<georss:point>55.663741 -4.0517474</georss:point>
+		</item>
+		<item>
+			<title>Irvine Waterside</title>
+			<guid>http://apps.sepa.org.uk/327231</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=327231</link>
+			<description>Irvine @ Irvine Waterside</description>
+			<georss:point>55.6163783 -4.6741653</georss:point>
+		</item>
+		<item>
+			<title>Glenfield Footbridge</title>
+			<guid>http://apps.sepa.org.uk/335374</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=335374</link>
+			<description>Irvine @ Glenfield Footbridge</description>
+			<georss:point>55.6009856 -4.4934063</georss:point>
+		</item>
+		<item>
+			<title>ArbroathTidal</title>
+			<guid>http://apps.sepa.org.uk/336675</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=336675</link>
+			<description>North Sea @ ArbroathTidal</description>
+			<georss:point>56.5554935 -2.5830705</georss:point>
+		</item>
+		<item>
+			<title>Musselburgh Tidal</title>
+			<guid>http://apps.sepa.org.uk/341339</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=341339</link>
+			<description>Firth of Forth @ Musselburgh Tidal</description>
+			<georss:point>55.947217 -3.0486364</georss:point>
+		</item>
+		<item>
+			<title>Ivy Bridge</title>
+			<guid>http://apps.sepa.org.uk/341495</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=341495</link>
+			<description>Coilte @ Ivy Bridge</description>
+			<georss:point>57.3183542 -4.4976058</georss:point>
+		</item>
+		<item>
+			<title>Stobs Castle</title>
+			<guid>http://apps.sepa.org.uk/345032</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=345032</link>
+			<description>Slitrig @ Stobs Castle</description>
+			<georss:point>55.3816928 -2.7805392</georss:point>
+		</item>
+		<item>
+			<title>Loch Ailsh Level</title>
+			<guid>http://apps.sepa.org.uk/354613</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=354613</link>
+			<description>Oykel @ Loch Ailsh Level</description>
+			<georss:point>58.0481803 -4.8555183</georss:point>
+		</item>
+		<item>
+			<title>Langwell Lodge</title>
+			<guid>http://apps.sepa.org.uk/354621</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=354621</link>
+			<description>Canaird @ Langwell Lodge</description>
+			<georss:point>57.9745348 -5.1004646</georss:point>
+		</item>
+		<item>
+			<title>Loch Tormasad</title>
+			<guid>http://apps.sepa.org.uk/354622</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=354622</link>
+			<description>Tormasad @ Loch Tormasad</description>
+			<georss:point>57.5617933 -7.31687</georss:point>
+		</item>
+		<item>
+			<title>Mill Croft</title>
+			<guid>http://apps.sepa.org.uk/354623</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=354623</link>
+			<description>Abhainn Roag @ Mill Croft</description>
+			<georss:point>57.288415 -7.368369</georss:point>
+		</item>
+		<item>
+			<title>Inveroykel Bailey Bridge</title>
+			<guid>http://apps.sepa.org.uk/354624</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=354624</link>
+			<description>Oykel @ Inveroykel Bailey Bridge</description>
+			<georss:point>57.9734415 -4.6049736</georss:point>
+		</item>
+		<item>
+			<title>White Bridge</title>
+			<guid>http://apps.sepa.org.uk/355980</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=355980</link>
+			<description>Enrick @ White Bridge</description>
+			<georss:point>57.3336077 -4.6731105</georss:point>
+		</item>
+		<item>
+			<title>Laxdale</title>
+			<guid>http://apps.sepa.org.uk/356217</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=356217</link>
+			<description>Laxdale @ Laxdale</description>
+			<georss:point>57.8686407 -6.8936143</georss:point>
+		</item>
+		<item>
+			<title>Craigendarroch</title>
+			<guid>http://apps.sepa.org.uk/356326</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=356326</link>
+			<description>Aline @ Craigendarroch</description>
+			<georss:point>56.5699075 -5.7498136</georss:point>
+		</item>
+		<item>
+			<title>Meikle Kinord</title>
+			<guid>http://apps.sepa.org.uk/356327</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=356327</link>
+			<description>Loch Kinord @ Meikle Kinord</description>
+			<georss:point>57.078251 -2.921361</georss:point>
+		</item>
+		<item>
+			<title>Loch A Bhraoin</title>
+			<guid>http://apps.sepa.org.uk/356328</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=356328</link>
+			<description>Loch A Bhraoin @ Loch A Bhraoin</description>
+			<georss:point>57.7282765 -5.0983391</georss:point>
+		</item>
+		<item>
+			<title>Inverurie</title>
+			<guid>http://apps.sepa.org.uk/367365</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=367365</link>
+			<description>Don @ Inverurie</description>
+			<georss:point>57.2582994 -2.3622566</georss:point>
+		</item>
+		<item>
+			<title>Garthdee</title>
+			<guid>http://apps.sepa.org.uk/368014</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368014</link>
+			<description>Dee (Grampian) @ Garthdee</description>
+			<georss:point>57.1188087 -2.1243992</georss:point>
+		</item>
+		<item>
+			<title>Ladyflat Farm</title>
+			<guid>http://apps.sepa.org.uk/368486</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368486</link>
+			<description>Back Burn (Borders) @ Ladyflat Farm</description>
+			<georss:point>55.7563454 -2.3694957</georss:point>
+		</item>
+		<item>
+			<title>Glenbreck</title>
+			<guid>http://apps.sepa.org.uk/368490</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368490</link>
+			<description>Tweed @ Glenbreck</description>
+			<georss:point>55.4819356 -3.4775702</georss:point>
+		</item>
+		<item>
+			<title>Mill of Keithfield</title>
+			<guid>http://apps.sepa.org.uk/368494</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368494</link>
+			<description>Keithfield Burn @ Mill of Keithfield</description>
+			<georss:point>57.395477 -2.2681804</georss:point>
+		</item>
+		<item>
+			<title>Elphin</title>
+			<guid>http://apps.sepa.org.uk/368495</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=368495</link>
+			<description>Abhainn a Chnocain @ Elphin</description>
+			<georss:point>58.0517227 -5.0312651</georss:point>
+		</item>
+		<item>
+			<title>Kinlochewe Lodge</title>
+			<guid>http://apps.sepa.org.uk/471362</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=471362</link>
+			<description>Abhainn Bruachaig @ Kinlochewe Lodge</description>
+			<georss:point>57.6043761 -5.291706</georss:point>
+		</item>
+		<item>
+			<title>Meikleholm Bridge</title>
+			<guid>http://apps.sepa.org.uk/504722</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=504722</link>
+			<description>Annan @ Meikleholm Bridge</description>
+			<georss:point>55.3621135 -3.4626686</georss:point>
+		</item>
+		<item>
+			<title>Calderpark</title>
+			<guid>http://apps.sepa.org.uk/133069</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133069</link>
+			<description>North Calder Water @ Calderpark</description>
+			<georss:point>55.8373952 -4.1079513</georss:point>
+		</item>
+		<item>
+			<title>Candermill</title>
+			<guid>http://apps.sepa.org.uk/133070</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133070</link>
+			<description>Cander Water @ Candermill</description>
+			<georss:point>55.7011892 -3.9675795</georss:point>
+		</item>
+		<item>
+			<title>Catrine</title>
+			<guid>http://apps.sepa.org.uk/133071</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133071</link>
+			<description>Ayr @ Catrine</description>
+			<georss:point>55.5045214 -4.3369523</georss:point>
+		</item>
+		<item>
+			<title>Condorrat</title>
+			<guid>http://apps.sepa.org.uk/133072</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133072</link>
+			<description>Luggie Water @ Condorrat</description>
+			<georss:point>55.9292585 -4.0201582</georss:point>
+		</item>
+		<item>
+			<title>Craigend</title>
+			<guid>http://apps.sepa.org.uk/133073</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133073</link>
+			<description>Gryfe @ Craigend</description>
+			<georss:point>55.8642836 -4.534698</georss:point>
+		</item>
+		<item>
+			<title>Daldowie</title>
+			<guid>http://apps.sepa.org.uk/133074</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133074</link>
+			<description>Clyde @ Daldowie</description>
+			<georss:point>55.8296692 -4.1224145</georss:point>
+		</item>
+		<item>
+			<title>Dippen</title>
+			<guid>http://apps.sepa.org.uk/133077</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133077</link>
+			<description>Carradale Water @ Dippen</description>
+			<georss:point>55.5830566 -5.4966401</georss:point>
+		</item>
+		<item>
+			<title>Dreghorn</title>
+			<guid>http://apps.sepa.org.uk/133078</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133078</link>
+			<description>Annick Water @ Dreghorn</description>
+			<georss:point>55.6114102 -4.6193788</georss:point>
+		</item>
+		<item>
+			<title>Dryfield</title>
+			<guid>http://apps.sepa.org.uk/133080</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133080</link>
+			<description>Kelvin @ Dryfield</description>
+			<georss:point>55.9392209 -4.1825911</georss:point>
+		</item>
+		<item>
+			<title>Eglinton Castle</title>
+			<guid>http://apps.sepa.org.uk/133083</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133083</link>
+			<description>Lugton Water @ Eglinton Castle</description>
+			<georss:point>55.6428063 -4.6776585</georss:point>
+		</item>
+		<item>
+			<title>Fairholm</title>
+			<guid>http://apps.sepa.org.uk/133084</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133084</link>
+			<description>Avon Water @ Fairholm</description>
+			<georss:point>55.7446348 -3.9874838</georss:point>
+		</item>
+		<item>
+			<title>Gaidrew</title>
+			<guid>http://apps.sepa.org.uk/133086</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133086</link>
+			<description>Endrick Water @ Gaidrew</description>
+			<georss:point>56.048222 -4.4347922</georss:point>
+		</item>
+		<item>
+			<title>Glen Orchy</title>
+			<guid>http://apps.sepa.org.uk/133087</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133087</link>
+			<description>Orchy @ Glen Orchy</description>
+			<georss:point>56.4386604 -4.8590909</georss:point>
+		</item>
+		<item>
+			<title>Glen Strae</title>
+			<guid>http://apps.sepa.org.uk/133088</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133088</link>
+			<description>Strae @ Glen Strae</description>
+			<georss:point>56.4248318 -5.0011276</georss:point>
+		</item>
+		<item>
+			<title>Glenfalloch</title>
+			<guid>http://apps.sepa.org.uk/133089</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133089</link>
+			<description>Falloch @ Glenfalloch</description>
+			<georss:point>56.3368733 -4.717581</georss:point>
+		</item>
+		<item>
+			<title>Happendon</title>
+			<guid>http://apps.sepa.org.uk/133092</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133092</link>
+			<description>Douglas Water @ Happendon</description>
+			<georss:point>55.5802279 -3.8171994</georss:point>
+		</item>
+		<item>
+			<title>Hawkhead</title>
+			<guid>http://apps.sepa.org.uk/133093</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133093</link>
+			<description>White Cart Water @ Hawkhead</description>
+			<georss:point>55.8366341 -4.3999991</georss:point>
+		</item>
+		<item>
+			<title>Hazelbank</title>
+			<guid>http://apps.sepa.org.uk/133094</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133094</link>
+			<description>Clyde @ Hazelbank</description>
+			<georss:point>55.6873545 -3.8541575</georss:point>
+		</item>
+		<item>
+			<title>Hoodston Bridge</title>
+			<guid>http://apps.sepa.org.uk/133096</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133096</link>
+			<description>Cessnock Water @ Hoodston Bridge</description>
+			<georss:point>55.6013834 -4.4284834</georss:point>
+		</item>
+		<item>
+			<title>Overlee</title>
+			<guid>http://apps.sepa.org.uk/133118</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133118</link>
+			<description>White Cart Water @ Overlee</description>
+			<georss:point>55.7898794 -4.2665398</georss:point>
+		</item>
+		<item>
+			<title>Huntly GS</title>
+			<guid>http://apps.sepa.org.uk/369548</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=369548</link>
+			<description>Deveron @ Huntly GS</description>
+			<georss:point>57.4549743 -2.8075762</georss:point>
+		</item>
+		<item>
+			<title>Old Rayne</title>
+			<guid>http://apps.sepa.org.uk/371577</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=371577</link>
+			<description>Urie @ Old Rayne</description>
+			<georss:point>57.3431902 -2.5465362</georss:point>
+		</item>
+		<item>
+			<title>Inveriscandye</title>
+			<guid>http://apps.sepa.org.uk/371579</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=371579</link>
+			<description>North Esk (Tayside) @ Inveriscandye</description>
+			<georss:point>56.7998671 -2.6266345</georss:point>
+		</item>
+		<item>
+			<title>Athelstaneford</title>
+			<guid>http://apps.sepa.org.uk/372871</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=372871</link>
+			<description>Cogtail Burn @ Athelstaneford</description>
+			<georss:point>55.985415 -2.7365364</georss:point>
+		</item>
+		<item>
+			<title>Erchless</title>
+			<guid>http://apps.sepa.org.uk/377135</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=377135</link>
+			<description>Beauly @ Erchless</description>
+			<georss:point>57.4277075 -4.6235215</georss:point>
+		</item>
+		<item>
+			<title>Faich Bhiorach</title>
+			<guid>http://apps.sepa.org.uk/378262</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=378262</link>
+			<description>Kerry @ Faich Bhiorach</description>
+			<georss:point>57.6901744 -5.6610499</georss:point>
+		</item>
+		<item>
+			<title>Lagganbeg</title>
+			<guid>http://apps.sepa.org.uk/396186</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=396186</link>
+			<description>Aber Burn @ Lagganbeg</description>
+			<georss:point>56.0512819 -4.5273566</georss:point>
+		</item>
+		<item>
+			<title>Kirktown of Fetteresso</title>
+			<guid>http://apps.sepa.org.uk/463690</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=463690</link>
+			<description>Carron Water @ Kirktown of Fetteresso</description>
+			<georss:point>56.961422 -2.2440315</georss:point>
+		</item>
+		<item>
+			<title>Craigforth</title>
+			<guid>http://apps.sepa.org.uk/4638</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=4638</link>
+			<description>Forth @ Craigforth</description>
+			<georss:point>56.1360935 -3.9702266</georss:point>
+		</item>
+		<item>
+			<title>Loakmill No 2</title>
+			<guid>http://apps.sepa.org.uk/474477</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=474477</link>
+			<description>Garry Burn @ Loakmill No 2</description>
+			<georss:point>56.4918019 -3.5080112</georss:point>
+		</item>
+		<item>
+			<title>Pluscarden Abbey</title>
+			<guid>http://apps.sepa.org.uk/486057</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=486057</link>
+			<description>Black Burn @ Pluscarden Abbey</description>
+			<georss:point>57.5994478 -3.4331867</georss:point>
+		</item>
+		<item>
+			<title>Oban Tidal</title>
+			<guid>http://apps.sepa.org.uk/490749</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=490749</link>
+			<description>Firth of Lorn @ Oban Tidal</description>
+			<georss:point>56.4115894 -5.4806691</georss:point>
+		</item>
+		<item>
+			<title>Cromarty</title>
+			<guid>http://apps.sepa.org.uk/492364</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=492364</link>
+			<description>Cromarty Firth @ Cromarty</description>
+			<georss:point>57.6828116 -4.0383475</georss:point>
+		</item>
+		<item>
+			<title>Kilbirnie</title>
+			<guid>http://apps.sepa.org.uk/494257</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=494257</link>
+			<description>Garnock @ Kilbirnie</description>
+			<georss:point>55.7564119 -4.6855729</georss:point>
+		</item>
+		<item>
+			<title>Kingairloch Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/494728</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=494728</link>
+			<description>Loch Linnhe @ Kingairloch Tide Gauge</description>
+			<georss:point>56.616183 -5.5030345</georss:point>
+		</item>
+		<item>
+			<title>Foyers</title>
+			<guid>http://apps.sepa.org.uk/498342</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=498342</link>
+			<description>Loch Ness @ Foyers</description>
+			<georss:point>57.2626331 -4.4830378</georss:point>
+		</item>
+		<item>
+			<title>Wheeb Bridge</title>
+			<guid>http://apps.sepa.org.uk/502896</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=502896</link>
+			<description>Cree @ Wheeb Bridge</description>
+			<georss:point>55.0899094 -4.6615625</georss:point>
+		</item>
+		<item>
+			<title>Kingston Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/503411</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=503411</link>
+			<description>Moray Firth @ Kingston Tide Gauge</description>
+			<georss:point>57.6731559 -3.108449</georss:point>
+		</item>
+		<item>
+			<title>Cowbridge</title>
+			<guid>http://apps.sepa.org.uk/5981</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=5981</link>
+			<description>South Esk (Lothian) @ Cowbridge</description>
+			<georss:point>55.8970955 -3.058914</georss:point>
+		</item>
+		<item>
+			<title>Musselburgh</title>
+			<guid>http://apps.sepa.org.uk/635</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=635</link>
+			<description>Esk (Lothian) @ Musselburgh</description>
+			<georss:point>55.939505 -3.0609222</georss:point>
+		</item>
+		<item>
+			<title>Kenmore</title>
+			<guid>http://apps.sepa.org.uk/8295</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=8295</link>
+			<description>Tay @ Kenmore</description>
+			<georss:point>56.596377 -3.9850727</georss:point>
+		</item>
+		<item>
+			<title>Hermitage</title>
+			<guid>http://apps.sepa.org.uk/8402</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=8402</link>
+			<description>Braan @ Hermitage</description>
+			<georss:point>56.560971 -3.6072123</georss:point>
+		</item>
+		<item>
+			<title>Norham</title>
+			<guid>http://apps.sepa.org.uk/9514</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=9514</link>
+			<description>Tweed @ Norham</description>
+			<georss:point>55.7226861 -2.1633826</georss:point>
+		</item>
+		<item>
+			<title>Galashiels</title>
+			<guid>http://apps.sepa.org.uk/9683</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=9683</link>
+			<description>Gala Water @ Galashiels</description>
+			<georss:point>55.6271638 -2.8284684</georss:point>
+		</item>
+		<item>
+			<title>Perth</title>
+			<guid>http://apps.sepa.org.uk/10048</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=10048</link>
+			<description>Tay @ Perth</description>
+			<georss:point>56.4119127 -3.4342338</georss:point>
+		</item>
+		<item>
+			<title>Castle O'er</title>
+			<guid>http://apps.sepa.org.uk/506142</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=506142</link>
+			<description>White Esk @ Castle O'er</description>
+			<georss:point>55.2229769 -3.1797057</georss:point>
+		</item>
+		<item>
+			<title>Langholm Bridge</title>
+			<guid>http://apps.sepa.org.uk/506155</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=506155</link>
+			<description>Esk (Solway) @ Langholm Bridge</description>
+			<georss:point>55.1524461 -3.0014097</georss:point>
+		</item>
+		<item>
+			<title>Unthank Bridge</title>
+			<guid>http://apps.sepa.org.uk/506153</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=506153</link>
+			<description>Ewes Water @ Unthank Bridge</description>
+			<georss:point>55.2434236 -2.9679852</georss:point>
+		</item>
+		<item>
+			<title>Kirkcudbright Bay</title>
+			<guid>http://apps.sepa.org.uk/506171</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=506171</link>
+			<description>Solway Firth @ Kirkcudbright Bay</description>
+			<georss:point>54.7947156 -4.0623686</georss:point>
+		</item>
+		<item>
+			<title>Berneray Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/511675</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=511675</link>
+			<description>Sound of Harris @ Berneray Tide Gauge</description>
+			<georss:point>57.7142567 -7.1696122</georss:point>
+		</item>
+		<item>
+			<title>Eriskay Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/511674</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=511674</link>
+			<description>Sound of Barra @ Eriskay Tide Gauge</description>
+			<georss:point>57.0705742 -7.3090752</georss:point>
+		</item>
+		<item>
+			<title>Ballachraggan</title>
+			<guid>http://apps.sepa.org.uk/516803</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=516803</link>
+			<description>Lossie @ Ballachraggan</description>
+			<georss:point>57.5282293 -3.4515781</georss:point>
+		</item>
+		<item>
+			<title>Crieff</title>
+			<guid>http://apps.sepa.org.uk/520119</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=520119</link>
+			<description>Earn @ Crieff</description>
+			<georss:point>56.3609285 -3.8470782</georss:point>
+		</item>
+		<item>
+			<title>Lochindorb Level</title>
+			<guid>http://apps.sepa.org.uk/115371</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=115371</link>
+			<description>Lochindorb @ Lochindorb Level</description>
+			<georss:point>57.3988177 -3.7152945</georss:point>
+		</item>
+		<item>
+			<title>Weisdale Mill</title>
+			<guid>http://apps.sepa.org.uk/116008</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=116008</link>
+			<description>Weisdale Burn @ Weisdale Mill</description>
+			<georss:point>60.2593372 -1.2886069</georss:point>
+		</item>
+		<item>
+			<title>Buckie</title>
+			<guid>http://apps.sepa.org.uk/116009</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=116009</link>
+			<description>Moray Firth @ Buckie</description>
+			<georss:point>57.6807734 -2.9541329</georss:point>
+		</item>
+		<item>
+			<title>Claggan</title>
+			<guid>http://apps.sepa.org.uk/116011</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=116011</link>
+			<description>Nevis @ Claggan</description>
+			<georss:point>56.8214935 -5.0888515</georss:point>
+		</item>
+		<item>
+			<title>Tarbert Tidal</title>
+			<guid>http://apps.sepa.org.uk/116037</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=116037</link>
+			<description>Loch Fyne @ Tarbert Tidal</description>
+			<georss:point>55.8643375 -5.4123343</georss:point>
+		</item>
+		<item>
+			<title>Kirkfieldbank</title>
+			<guid>http://apps.sepa.org.uk/124855</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=124855</link>
+			<description>Clyde @ Kirkfieldbank</description>
+			<georss:point>55.6759525 -3.8047303</georss:point>
+		</item>
+		<item>
+			<title>Lawersbridge</title>
+			<guid>http://apps.sepa.org.uk/132848</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=132848</link>
+			<description>Killoch Burn @ Lawersbridge</description>
+			<georss:point>55.5494997 -4.3937934</georss:point>
+		</item>
+		<item>
+			<title>Auchendrane</title>
+			<guid>http://apps.sepa.org.uk/133060</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133060</link>
+			<description>Doon @ Auchendrane</description>
+			<georss:point>55.4099827 -4.6270547</georss:point>
+		</item>
+		<item>
+			<title>Auchengeich</title>
+			<guid>http://apps.sepa.org.uk/133061</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133061</link>
+			<description>Bothlin Burn @ Auchengeich</description>
+			<georss:point>55.9193856 -4.1141464</georss:point>
+		</item>
+		<item>
+			<title>Balnowlart</title>
+			<guid>http://apps.sepa.org.uk/133062</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133062</link>
+			<description>Stinchar @ Balnowlart</description>
+			<georss:point>55.1068394 -4.9681251</georss:point>
+		</item>
+		<item>
+			<title>Barnaline Lodge</title>
+			<guid>http://apps.sepa.org.uk/133063</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133063</link>
+			<description>Avich @ Barnaline Lodge</description>
+			<georss:point>56.2744287 -5.2774311</georss:point>
+		</item>
+		<item>
+			<title>Blairston</title>
+			<guid>http://apps.sepa.org.uk/133064</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133064</link>
+			<description>Clyde @ Blairston</description>
+			<georss:point>55.7973394 -4.0683103</georss:point>
+		</item>
+		<item>
+			<title>Braevallich</title>
+			<guid>http://apps.sepa.org.uk/133065</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133065</link>
+			<description>Abhainn a Bhealaich @ Braevallich</description>
+			<georss:point>56.2179255 -5.2971251</georss:point>
+		</item>
+		<item>
+			<title>Bridgend</title>
+			<guid>http://apps.sepa.org.uk/133066</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133066</link>
+			<description>Kelvin @ Bridgend</description>
+			<georss:point>55.9490395 -4.1289446</georss:point>
+		</item>
+		<item>
+			<title>Inverlochy</title>
+			<guid>http://apps.sepa.org.uk/133097</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133097</link>
+			<description>Lochy (Argyll) @ Inverlochy</description>
+			<georss:point>56.4049487 -4.9236748</georss:point>
+		</item>
+		<item>
+			<title>Killermont</title>
+			<guid>http://apps.sepa.org.uk/133099</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133099</link>
+			<description>Kelvin @ Killermont</description>
+			<georss:point>55.9060836 -4.3077937</georss:point>
+		</item>
+		<item>
+			<title>Kilwinning</title>
+			<guid>http://apps.sepa.org.uk/133101</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133101</link>
+			<description>Garnock @ Kilwinning</description>
+			<georss:point>55.6457046 -4.6918437</georss:point>
+		</item>
+		<item>
+			<title>Kirkmuirhill</title>
+			<guid>http://apps.sepa.org.uk/133102</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133102</link>
+			<description>Nethan @ Kirkmuirhill</description>
+			<georss:point>55.6648964 -3.8941459</georss:point>
+		</item>
+		<item>
+			<title>Langholm A</title>
+			<guid>http://apps.sepa.org.uk/133103</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133103</link>
+			<description>Lugar Water @ Langholm A</description>
+			<georss:point>55.4662155 -4.3621658</georss:point>
+		</item>
+		<item>
+			<title>Lennox Castle</title>
+			<guid>http://apps.sepa.org.uk/133104</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133104</link>
+			<description>Glazert Water @ Lennox Castle</description>
+			<georss:point>55.9802886 -4.2209883</georss:point>
+		</item>
+		<item>
+			<title>Letham</title>
+			<guid>http://apps.sepa.org.uk/133105</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133105</link>
+			<description>Earn Water @ Letham</description>
+			<georss:point>55.766675 -4.2834308</georss:point>
+		</item>
+		<item>
+			<title>Linnbrane</title>
+			<guid>http://apps.sepa.org.uk/133107</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133107</link>
+			<description>Leven (Loch Lomond) @ Linnbrane</description>
+			<georss:point>55.9877396 -4.5751175</georss:point>
+		</item>
+		<item>
+			<title>Luss</title>
+			<guid>http://apps.sepa.org.uk/133108</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133108</link>
+			<description>Luss Water @ Luss</description>
+			<georss:point>56.1005609 -4.6446103</georss:point>
+		</item>
+		<item>
+			<title>Maidencots</title>
+			<guid>http://apps.sepa.org.uk/133110</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133110</link>
+			<description>Duneaton Water @ Maidencots</description>
+			<georss:point>55.5157963 -3.6953782</georss:point>
+		</item>
+		<item>
+			<title>Mainholm</title>
+			<guid>http://apps.sepa.org.uk/133111</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133111</link>
+			<description>Ayr @ Mainholm</description>
+			<georss:point>55.4609684 -4.5932693</georss:point>
+		</item>
+		<item>
+			<title>Milliken Park</title>
+			<guid>http://apps.sepa.org.uk/133112</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133112</link>
+			<description>Black Cart Water @ Milliken Park</description>
+			<georss:point>55.8251765 -4.5377571</georss:point>
+		</item>
+		<item>
+			<title>Milngavie</title>
+			<guid>http://apps.sepa.org.uk/133113</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133113</link>
+			<description>Allander Water @ Milngavie</description>
+			<georss:point>55.9341114 -4.3099085</georss:point>
+		</item>
+		<item>
+			<title>Milton of Campsie</title>
+			<guid>http://apps.sepa.org.uk/133114</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133114</link>
+			<description>Glazert Water @ Milton of Campsie</description>
+			<georss:point>55.9599417 -4.1537027</georss:point>
+		</item>
+		<item>
+			<title>Monyquil Farm</title>
+			<guid>http://apps.sepa.org.uk/133115</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133115</link>
+			<description>Machrie Water @ Monyquil Farm</description>
+			<georss:point>55.5641916 -5.2719274</georss:point>
+		</item>
+		<item>
+			<title>Newmilns</title>
+			<guid>http://apps.sepa.org.uk/133117</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133117</link>
+			<description>Irvine @ Newmilns</description>
+			<georss:point>55.6061063 -4.3310373</georss:point>
+		</item>
+		<item>
+			<title>Oxgang</title>
+			<guid>http://apps.sepa.org.uk/133119</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133119</link>
+			<description>Luggie Water @ Oxgang</description>
+			<georss:point>55.9355716 -4.1380679</georss:point>
+		</item>
+		<item>
+			<title>Redlees</title>
+			<guid>http://apps.sepa.org.uk/133122</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133122</link>
+			<description>Rotten Calder Water @ Redlees</description>
+			<georss:point>55.8185622 -4.1092947</georss:point>
+		</item>
+		<item>
+			<title>Robstone</title>
+			<guid>http://apps.sepa.org.uk/133123</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133123</link>
+			<description>Water of Girvan @ Robstone</description>
+			<georss:point>55.2588466 -4.8069059</georss:point>
+		</item>
+		<item>
+			<title>Ross Priory</title>
+			<guid>http://apps.sepa.org.uk/133124</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133124</link>
+			<description>Loch Lomond @ Ross Priory</description>
+			<georss:point>56.0527924 -4.5571114</georss:point>
+		</item>
+		<item>
+			<title>Shewalton</title>
+			<guid>http://apps.sepa.org.uk/133125</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133125</link>
+			<description>Irvine @ Shewalton</description>
+			<georss:point>55.5974685 -4.6277995</georss:point>
+		</item>
+		<item>
+			<title>Sills of Clyde</title>
+			<guid>http://apps.sepa.org.uk/133126</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133126</link>
+			<description>Clyde @ Sills of Clyde</description>
+			<georss:point>55.6631231 -3.705063</georss:point>
+		</item>
+		<item>
+			<title>Spiers Bridge</title>
+			<guid>http://apps.sepa.org.uk/133128</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133128</link>
+			<description>Auldhouse Burn @ Spiers Bridge</description>
+			<georss:point>55.8014929 -4.3222807</georss:point>
+		</item>
+		<item>
+			<title>Tulliford Mill</title>
+			<guid>http://apps.sepa.org.uk/133130</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133130</link>
+			<description>Clyde @ Tulliford Mill</description>
+			<georss:point>55.64385 -3.7589348</georss:point>
+		</item>
+		<item>
+			<title>Victoria Bridge</title>
+			<guid>http://apps.sepa.org.uk/133131</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133131</link>
+			<description>Linne nam Beathach @ Victoria Bridge</description>
+			<georss:point>56.5394936 -4.8120806</georss:point>
+		</item>
+		<item>
+			<title>Waterfoot</title>
+			<guid>http://apps.sepa.org.uk/133132</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133132</link>
+			<description>White Cart Water @ Waterfoot</description>
+			<georss:point>55.76725 -4.282476</georss:point>
+		</item>
+		<item>
+			<title>Waterside</title>
+			<guid>http://apps.sepa.org.uk/133133</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133133</link>
+			<description>Kittoch Water @ Waterside</description>
+			<georss:point>55.7785815 -4.240097</georss:point>
+		</item>
+		<item>
+			<title>Barsolus</title>
+			<guid>http://apps.sepa.org.uk/133142</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133142</link>
+			<description>Piltanton Burn @ Barsolus</description>
+			<georss:point>54.865865 -4.9513327</georss:point>
+		</item>
+		<item>
+			<title>Girvan Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/133137</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133137</link>
+			<description>Firth of Clyde @ Girvan Tide Gauge</description>
+			<georss:point>55.2440465 -4.8596743</georss:point>
+		</item>
+		<item>
+			<title>Renfrew Tide Gauge</title>
+			<guid>http://apps.sepa.org.uk/133138</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133138</link>
+			<description>Clyde @ Renfrew Tide Gauge</description>
+			<georss:point>55.8858065 -4.3828368</georss:point>
+		</item>
+		<item>
+			<title>Airyhemming</title>
+			<guid>http://apps.sepa.org.uk/133141</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133141</link>
+			<description>Water of Luce @ Airyhemming</description>
+			<georss:point>54.9007467 -4.8397223</georss:point>
+		</item>
+		<item>
+			<title>Braidlie</title>
+			<guid>http://apps.sepa.org.uk/133144</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133144</link>
+			<description>Hermitage Water @ Braidlie</description>
+			<georss:point>55.2614313 -2.8249644</georss:point>
+		</item>
+		<item>
+			<title>Bridgemuir</title>
+			<guid>http://apps.sepa.org.uk/133145</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133145</link>
+			<description>Kinnel Water @ Bridgemuir</description>
+			<georss:point>55.1463332 -3.4282334</georss:point>
+		</item>
+		<item>
+			<title>Brydekirk</title>
+			<guid>http://apps.sepa.org.uk/133146</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133146</link>
+			<description>Annan @ Brydekirk</description>
+			<georss:point>55.0212497 -3.2671002</georss:point>
+		</item>
+		<item>
+			<title>Canonbie</title>
+			<guid>http://apps.sepa.org.uk/133148</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133148</link>
+			<description>Esk (Solway) @ Canonbie</description>
+			<georss:point>55.0666945 -2.9459073</georss:point>
+		</item>
+		<item>
+			<title>Capenoch</title>
+			<guid>http://apps.sepa.org.uk/133149</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133149</link>
+			<description>Scar Water @ Capenoch</description>
+			<georss:point>55.2273712 -3.8170528</georss:point>
+		</item>
+		<item>
+			<title>Dalbeattie</title>
+			<guid>http://apps.sepa.org.uk/133151</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133151</link>
+			<description>Urr Water @ Dalbeattie</description>
+			<georss:point>54.9298845 -3.8409801</georss:point>
+		</item>
+		<item>
+			<title>Dalgig</title>
+			<guid>http://apps.sepa.org.uk/133152</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133152</link>
+			<description>Nith @ Dalgig</description>
+			<georss:point>55.3878258 -4.2771685</georss:point>
+		</item>
+		<item>
+			<title>Drumlanrig</title>
+			<guid>http://apps.sepa.org.uk/133154</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133154</link>
+			<description>Nith @ Drumlanrig</description>
+			<georss:point>55.2751737 -3.7983127</georss:point>
+		</item>
+		<item>
+			<title>Fiddlers Ford</title>
+			<guid>http://apps.sepa.org.uk/133155</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133155</link>
+			<description>Cluden Water @ Fiddlers Ford</description>
+			<georss:point>55.0987479 -3.6816107</georss:point>
+		</item>
+		<item>
+			<title>Friars Carse</title>
+			<guid>http://apps.sepa.org.uk/133156</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133156</link>
+			<description>Nith @ Friars Carse</description>
+			<georss:point>55.1489935 -3.6908325</georss:point>
+		</item>
+		<item>
+			<title>Glenlochar</title>
+			<guid>http://apps.sepa.org.uk/133157</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133157</link>
+			<description>Dee (Solway) @ Glenlochar</description>
+			<georss:point>54.9555485 -3.9791528</georss:point>
+		</item>
+		<item>
+			<title>Greensands</title>
+			<guid>http://apps.sepa.org.uk/133159</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133159</link>
+			<description>Nith @ Greensands</description>
+			<georss:point>55.0694313 -3.6179544</georss:point>
+		</item>
+		<item>
+			<title>Hall Bridge</title>
+			<guid>http://apps.sepa.org.uk/133160</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133160</link>
+			<description>Nith @ Hall Bridge</description>
+			<georss:point>55.3929819 -4.0791164</georss:point>
+		</item>
+		<item>
+			<title>Loch Dee Outlet</title>
+			<guid>http://apps.sepa.org.uk/133163</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133163</link>
+			<description>Blackwater of Dee @ Loch Dee Outlet</description>
+			<georss:point>55.0881055 -4.3860616</georss:point>
+		</item>
+		<item>
+			<title>Low Malzie</title>
+			<guid>http://apps.sepa.org.uk/133167</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133167</link>
+			<description>Bladnoch @ Low Malzie</description>
+			<georss:point>54.8590297 -4.5220838</georss:point>
+		</item>
+		<item>
+			<title>Minnoch Bridge</title>
+			<guid>http://apps.sepa.org.uk/133168</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133168</link>
+			<description>Water of Minnoch @ Minnoch Bridge</description>
+			<georss:point>55.0388789 -4.5635084</georss:point>
+		</item>
+		<item>
+			<title>Mossknowe</title>
+			<guid>http://apps.sepa.org.uk/133169</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133169</link>
+			<description>Kirtle Water @ Mossknowe</description>
+			<georss:point>55.0130352 -3.1196359</georss:point>
+		</item>
+		<item>
+			<title>Redhall</title>
+			<guid>http://apps.sepa.org.uk/133175</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133175</link>
+			<description>Kinnel Water @ Redhall</description>
+			<georss:point>55.1668745 -3.4505225</georss:point>
+		</item>
+		<item>
+			<title>Newcastleton</title>
+			<guid>http://apps.sepa.org.uk/133170</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133170</link>
+			<description>Liddel Water @ Newcastleton</description>
+			<georss:point>55.1771533 -2.811207</georss:point>
+		</item>
+		<item>
+			<title>Newton Stewart</title>
+			<guid>http://apps.sepa.org.uk/133171</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133171</link>
+			<description>Cree @ Newton Stewart</description>
+			<georss:point>54.9572718 -4.4805328</georss:point>
+		</item>
+		<item>
+			<title>Plumpe Bridge</title>
+			<guid>http://apps.sepa.org.uk/133173</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133173</link>
+			<description>Sark @ Plumpe Bridge</description>
+			<georss:point>55.004374 -3.0467855</georss:point>
+		</item>
+		<item>
+			<title>Rowanburnfoot</title>
+			<guid>http://apps.sepa.org.uk/133176</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133176</link>
+			<description>Liddel Water @ Rowanburnfoot</description>
+			<georss:point>55.0744086 -2.9184145</georss:point>
+		</item>
+		<item>
+			<title>Rusko</title>
+			<guid>http://apps.sepa.org.uk/133177</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133177</link>
+			<description>Water of Fleet @ Rusko</description>
+			<georss:point>54.9058018 -4.1976269</georss:point>
+		</item>
+		<item>
+			<title>Whitesands</title>
+			<guid>http://apps.sepa.org.uk/133181</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133181</link>
+			<description>Nith @ Whitesands</description>
+			<georss:point>55.0653746 -3.6107595</georss:point>
+		</item>
+		<item>
+			<title>Woodfoot</title>
+			<guid>http://apps.sepa.org.uk/133182</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=133182</link>
+			<description>Annan @ Woodfoot</description>
+			<georss:point>55.2949841 -3.4196466</georss:point>
+		</item>
+		<item>
+			<title>Luffness</title>
+			<guid>http://apps.sepa.org.uk/14865</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14865</link>
+			<description>Peffer Burn (West) @ Luffness</description>
+			<georss:point>56.020221 -2.8218999</georss:point>
+		</item>
+		<item>
+			<title>East Linton</title>
+			<guid>http://apps.sepa.org.uk/14870</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14870</link>
+			<description>Tyne @ East Linton</description>
+			<georss:point>55.9824915 -2.6572095</georss:point>
+		</item>
+		<item>
+			<title>Craigiehall</title>
+			<guid>http://apps.sepa.org.uk/14867</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14867</link>
+			<description>Almond (Lothian) @ Craigiehall</description>
+			<georss:point>55.9631274 -3.3385419</georss:point>
+		</item>
+		<item>
+			<title>Murrayfield</title>
+			<guid>http://apps.sepa.org.uk/14868</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14868</link>
+			<description>Water of Leith @ Murrayfield</description>
+			<georss:point>55.9456272 -3.2377972</georss:point>
+		</item>
+		<item>
+			<title>Almondell</title>
+			<guid>http://apps.sepa.org.uk/14869</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14869</link>
+			<description>Almond (Lothian) @ Almondell</description>
+			<georss:point>55.901814 -3.4630252</georss:point>
+		</item>
+		<item>
+			<title>Spilmersford</title>
+			<guid>http://apps.sepa.org.uk/14871</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14871</link>
+			<description>Tyne @ Spilmersford</description>
+			<georss:point>55.9100284 -2.8715089</georss:point>
+		</item>
+		<item>
+			<title>Dalmore</title>
+			<guid>http://apps.sepa.org.uk/14873</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14873</link>
+			<description>North Esk (Lothian) @ Dalmore</description>
+			<georss:point>55.8418987 -3.1959158</georss:point>
+		</item>
+		<item>
+			<title>Lennoxlove</title>
+			<guid>http://apps.sepa.org.uk/14874</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14874</link>
+			<description>Gifford Water @ Lennoxlove</description>
+			<georss:point>55.9358454 -2.7842064</georss:point>
+		</item>
+		<item>
+			<title>Liberton</title>
+			<guid>http://apps.sepa.org.uk/14876</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14876</link>
+			<description>Braid Burn @ Liberton</description>
+			<georss:point>55.9245752 -3.165798</georss:point>
+		</item>
+		<item>
+			<title>Colinton</title>
+			<guid>http://apps.sepa.org.uk/14880</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14880</link>
+			<description>Water of Leith @ Colinton</description>
+			<georss:point>55.9057533 -3.2621508</georss:point>
+		</item>
+		<item>
+			<title>Whitburn</title>
+			<guid>http://apps.sepa.org.uk/14881</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14881</link>
+			<description>Almond (Lothian) @ Whitburn</description>
+			<georss:point>55.8715696 -3.6829441</georss:point>
+		</item>
+		<item>
+			<title>Turnhouse</title>
+			<guid>http://apps.sepa.org.uk/14883</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14883</link>
+			<description>Gogar Burn @ Turnhouse</description>
+			<georss:point>55.9452789 -3.3454517</georss:point>
+		</item>
+		<item>
+			<title>Polmonthill</title>
+			<guid>http://apps.sepa.org.uk/14884</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14884</link>
+			<description>Avon (Forth Valley) @ Polmonthill</description>
+			<georss:point>55.9983685 -3.6820059</georss:point>
+		</item>
+		<item>
+			<title>Bonnybridge</title>
+			<guid>http://apps.sepa.org.uk/14885</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14885</link>
+			<description>Bonny Water @ Bonnybridge</description>
+			<georss:point>56.0018156 -3.8869984</georss:point>
+		</item>
+		<item>
+			<title>Headswood</title>
+			<guid>http://apps.sepa.org.uk/14886</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14886</link>
+			<description>Carron (Forth Valley) @ Headswood</description>
+			<georss:point>56.0149953 -3.875465</georss:point>
+		</item>
+		<item>
+			<title>Bridge of Teith</title>
+			<guid>http://apps.sepa.org.uk/14887</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14887</link>
+			<description>Teith @ Bridge of Teith</description>
+			<georss:point>56.1857277 -4.0555827</georss:point>
+		</item>
+		<item>
+			<title>Anie</title>
+			<guid>http://apps.sepa.org.uk/14888</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14888</link>
+			<description>Leny @ Anie</description>
+			<georss:point>56.257873 -4.2854222</georss:point>
+		</item>
+		<item>
+			<title>Bridge of Allan</title>
+			<guid>http://apps.sepa.org.uk/14889</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14889</link>
+			<description>Allan Water @ Bridge of Allan</description>
+			<georss:point>56.1590132 -3.956376</georss:point>
+		</item>
+		<item>
+			<title>Kinbuck</title>
+			<guid>http://apps.sepa.org.uk/14890</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14890</link>
+			<description>Allan Water @ Kinbuck</description>
+			<georss:point>56.2255475 -3.9495395</georss:point>
+		</item>
+		<item>
+			<title>Glenochil</title>
+			<guid>http://apps.sepa.org.uk/14891</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14891</link>
+			<description>Devon @ Glenochil</description>
+			<georss:point>56.1436388 -3.8393125</georss:point>
+		</item>
+		<item>
+			<title>Balfour Mains</title>
+			<guid>http://apps.sepa.org.uk/14894</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14894</link>
+			<description>Ore @ Balfour Mains</description>
+			<georss:point>56.1847257 -3.0815821</georss:point>
+		</item>
+		<item>
+			<title>Bannockburn</title>
+			<guid>http://apps.sepa.org.uk/14897</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14897</link>
+			<description>Bannock Burn @ Bannockburn</description>
+			<georss:point>56.095278 -3.9118261</georss:point>
+		</item>
+		<item>
+			<title>Loch Venachar</title>
+			<guid>http://apps.sepa.org.uk/14898</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14898</link>
+			<description>Eas Gobhain @ Loch Venachar</description>
+			<georss:point>56.2342493 -4.2568739</georss:point>
+		</item>
+		<item>
+			<title>Lathro</title>
+			<guid>http://apps.sepa.org.uk/14902</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14902</link>
+			<description>North Queich @ Lathro</description>
+			<georss:point>56.2213117 -3.428733</georss:point>
+		</item>
+		<item>
+			<title>Loch Katrine</title>
+			<guid>http://apps.sepa.org.uk/14910</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14910</link>
+			<description>Achray Water @ Loch Katrine</description>
+			<georss:point>56.2270074 -4.4362524</georss:point>
+		</item>
+		<item>
+			<title>Milton</title>
+			<guid>http://apps.sepa.org.uk/14907</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14907</link>
+			<description>Avondhu Burn @ Milton</description>
+			<georss:point>56.1811148 -4.4125871</georss:point>
+		</item>
+		<item>
+			<title>Castlehill Reservoir</title>
+			<guid>http://apps.sepa.org.uk/14908</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14908</link>
+			<description>Devon @ Castlehill Reservoir</description>
+			<georss:point>56.2092149 -3.6089056</georss:point>
+		</item>
+		<item>
+			<title>Nungate</title>
+			<guid>http://apps.sepa.org.uk/14909</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14909</link>
+			<description>Tyne @ Nungate</description>
+			<georss:point>55.9540198 -2.7717455</georss:point>
+		</item>
+		<item>
+			<title>Callander</title>
+			<guid>http://apps.sepa.org.uk/14911</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14911</link>
+			<description>Teith @ Callander</description>
+			<georss:point>56.242278 -4.2149328</georss:point>
+		</item>
+		<item>
+			<title>Gella Bridge</title>
+			<guid>http://apps.sepa.org.uk/14916</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14916</link>
+			<description>South Esk (Angus) @ Gella Bridge</description>
+			<georss:point>56.7753466 -3.02794</georss:point>
+		</item>
+		<item>
+			<title>Damleys Cottage</title>
+			<guid>http://apps.sepa.org.uk/14912</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14912</link>
+			<description>Greens Burn @ Damleys Cottage</description>
+			<georss:point>56.2212779 -3.3616411</georss:point>
+		</item>
+		<item>
+			<title>Newport</title>
+			<guid>http://apps.sepa.org.uk/14914</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14914</link>
+			<description>Firth of Tay @ Newport</description>
+			<georss:point>56.4374104 -2.9456237</georss:point>
+		</item>
+		<item>
+			<title>Prosen Bridge</title>
+			<guid>http://apps.sepa.org.uk/14915</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14915</link>
+			<description>Prosen Water @ Prosen Bridge</description>
+			<georss:point>56.7146888 -2.9887748</georss:point>
+		</item>
+		<item>
+			<title>Brechin</title>
+			<guid>http://apps.sepa.org.uk/14917</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14917</link>
+			<description>South Esk (Angus) @ Brechin</description>
+			<georss:point>56.7269125 -2.6559123</georss:point>
+		</item>
+		<item>
+			<title>Tannadice</title>
+			<guid>http://apps.sepa.org.uk/14918</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14918</link>
+			<description>South Esk (Angus) @ Tannadice</description>
+			<georss:point>56.7088856 -2.8577831</georss:point>
+		</item>
+		<item>
+			<title>Balmossie</title>
+			<guid>http://apps.sepa.org.uk/14919</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14919</link>
+			<description>Dighty Water @ Balmossie</description>
+			<georss:point>56.4817453 -2.8516759</georss:point>
+		</item>
+		<item>
+			<title>Colliston</title>
+			<guid>http://apps.sepa.org.uk/14921</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14921</link>
+			<description>Colliston Burn @ Colliston</description>
+			<georss:point>56.6099997 -2.6378516</georss:point>
+		</item>
+		<item>
+			<title>Arbroath</title>
+			<guid>http://apps.sepa.org.uk/14922</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14922</link>
+			<description>Brothock Water @ Arbroath</description>
+			<georss:point>56.5672204 -2.5881817</georss:point>
+		</item>
+		<item>
+			<title>Kirkton Mill</title>
+			<guid>http://apps.sepa.org.uk/14923</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14923</link>
+			<description>Lunan Water @ Kirkton Mill</description>
+			<georss:point>56.6354368 -2.564594</georss:point>
+		</item>
+		<item>
+			<title>Dalhousie Bridge</title>
+			<guid>http://apps.sepa.org.uk/14925</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14925</link>
+			<description>West Water @ Dalhousie Bridge</description>
+			<georss:point>56.8021636 -2.6704889</georss:point>
+		</item>
+		<item>
+			<title>Invermark</title>
+			<guid>http://apps.sepa.org.uk/14926</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14926</link>
+			<description>Water of Mark @ Invermark</description>
+			<georss:point>56.9112015 -2.9148219</georss:point>
+		</item>
+		<item>
+			<title>Logie Mill</title>
+			<guid>http://apps.sepa.org.uk/14927</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14927</link>
+			<description>North Esk (Tayside) @ Logie Mill</description>
+			<georss:point>56.7668668 -2.4933752</georss:point>
+		</item>
+		<item>
+			<title>Luther Bridge</title>
+			<guid>http://apps.sepa.org.uk/14928</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14928</link>
+			<description>Luther Water @ Luther Bridge</description>
+			<georss:point>56.7936799 -2.559981</georss:point>
+		</item>
+		<item>
+			<title>Kemback</title>
+			<guid>http://apps.sepa.org.uk/14929</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14929</link>
+			<description>Eden (Fife) @ Kemback</description>
+			<georss:point>56.3308948 -2.9484538</georss:point>
+		</item>
+		<item>
+			<title>St Michaels</title>
+			<guid>http://apps.sepa.org.uk/14930</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14930</link>
+			<description>Motray Water @ St Michaels</description>
+			<georss:point>56.3903605 -2.9081246</georss:point>
+		</item>
+		<item>
+			<title>Strathmiglo</title>
+			<guid>http://apps.sepa.org.uk/14931</guid>
+			<link>http://apps.sepa.org.uk/waterlevels?sd=t&amp;lc=14931</link>
+			<description>Eden (Fife) @ Strathmiglo</description>
+			<georss:point>56.2775757 -3.2530879</georss:point>
+		</item>
+	</channel>
+</rss>

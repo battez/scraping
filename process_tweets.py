@@ -66,9 +66,23 @@ if __name__ == '__main__':
 
     # find frequent:
     frequent_tags = count_all.most_common()
+    frequent_tags = [] # comment this line to repopulate db
     for tag in frequent_tags:
         
         dbstore.insert_one({'tag':tag[0][1:], 'count':tag[1]})
-    print (len(frequent_tags), ' inserted docs')  
+
+    print (len(frequent_tags), ' inserted docs') 
+
+    ## generate a json file to use in D3 Vega (via Vincent)
+    import vincent
+ 
+    word_freq = count_all.most_common(20)
+    word_freq = word_freq.reverse()
+    
+
+    labels, freq = zip(*word_freq)
+    data = {'data': freq, 'x': labels}
+    bar = vincent.Bar(data, iter_idx='x')
+    bar.to_json('term_freq.json')
     # print(frequent_tags[1:10]) # tuple list
     
