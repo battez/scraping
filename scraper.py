@@ -10,13 +10,13 @@ sys.setdefaultencoding('utf-8')
 import datetime
 import string
 import logging
-logging.basicConfig(filename="scrapelog.txt", level=logging.INFO)
+FORMAT = "%(asctime)-15s %(message)s"
+logging.basicConfig(filename="scrapelog.txt", level=logging.INFO, format=FORMAT)
 
 import os
 
 import urllib2
 import json
-import datetime
 from abc import ABCMeta
 from urllib import urlencode
 from abc import abstractmethod
@@ -253,7 +253,7 @@ if __name__ == '__main__':
 
     print 'processing...'
     exit()
-    
+
     # set the max_tweets:
     max_tweets = 5000
     twit = TwitterSearchImpl(0, 5, max_tweets)

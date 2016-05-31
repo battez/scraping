@@ -40,11 +40,36 @@ def scrape_avg_level(url):
         print ("Not a float")
         return 0
 
+def update_all(dbconn, mode='bounding_box', distance=5 ):
+    # loop through all the db collection of gauges
+    docs = dbconn[collection].find()
+    for doc in docs:
+
+        if(mode == 'level'):
+
+            # retrieve avg level
+            val = scrape_avg_level(doc['link'])
+           
+            # update this record with this new attribute 
+            dbconn[collection].update({'loc_id': doc['loc_id']}, {'$set': {'avg_level':val}})
+
+        else:
+            import bounding_box
+            # retrieve bounding box
+            val = bounding_box.get_bounding_box( doc['loc']['coordinates'][1], \
+                                    doc['loc']['coordinates'][0], \
+                                    distance  ) # set the distance!
+           
+            # update this record with this new attribute 
+            dbconn[collection].update({'loc_id': doc['loc_id']}, {'$set': {'bounding_box':[ \
+                val.lon_min, val.lat_min, val.lon_max, val.lat_max]}})
+
+    
 
 if __name__ == '__main__':
     ''' run the script, be sure to adjust the query as needed'''
 
-    MODE = 'bounding_box'
+    MODE = 'level' #  MODES= bounding_box, populate, level
 
     # connect to db where we store the Gauge data:
     from pymongo import MongoClient
@@ -82,28 +107,7 @@ if __name__ == '__main__':
 
 
     else:
+        update_all(db, mode=MODE)
+ 
 
-        # loop through all the db collection of gauges
-        docs = db[collection].find()
-        for doc in docs:
-
-            if(MODE == 'level'):
-
-                # retrieve avg level
-                val = scrape_avg_level(doc['link'])
-               
-                # update this record with this new attribute 
-                db[collection].update({'loc_id': doc['loc_id']}, {'$set': {'avg_level':val}})
-
-            else:
-                import bounding_box
-                # retrieve bounding box
-                val = bounding_box.get_bounding_box( doc['loc']['coordinates'][1], \
-                                        doc['loc']['coordinates'][0], \
-                                        5  )
-               
-                # update this record with this new attribute 
-                
-                db[collection].update({'loc_id': doc['loc_id']}, {'$set': {'bounding_box':[ \
-                    val.lon_min, val.lat_min, val.lon_max, val.lat_max]}})
                
