@@ -7,6 +7,9 @@ from urllib.request import urlopen
 from io import StringIO
 import csv
 from collections import deque
+import logging
+FORMAT = "%(asctime)-15s %(message)s"
+logging.basicConfig(filename="retrieve_log.txt", level=logging.INFO, format=FORMAT)
 
 
 STEM = 'http://apps.sepa.org.uk/database/riverlevels/'
@@ -28,7 +31,7 @@ def scrape_current_levels(urls = []):
         # set URL path to CSV
         csv_url = STEM + id_url + SUFFIX
         # open the CSV
-        time.sleep(0.5)
+        sleep(0.5)
 
         try:
             data = urlopen(csv_url).read().decode('ascii', 'ignore')
@@ -44,9 +47,10 @@ def scrape_current_levels(urls = []):
 
             # append to results
             results[id_url] = latest
-        except HTTPError as e:
-            
-            print("Error: " + e.code)
+
+        except:
+            logging.info('http error' + csv_url)
+            print("HTTP Error " + csv_url)
 
     return results
 

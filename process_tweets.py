@@ -1,6 +1,6 @@
 '''Process and clean functions for tweet data.
 
-Todo: mentions improved; extract keywords (non hashtags) using stopwords etc.; 
+TODO: mentions improved; extract keywords (non hashtags) using stopwords etc.; 
 improve normalise:remove URL patterns
 '''
 import re
@@ -78,7 +78,7 @@ if __name__ == '__main__':
  
     word_freq = count_all.most_common(20)
     word_freq = word_freq.reverse()
-    
+
 
     labels, freq = zip(*word_freq)
     data = {'data': freq, 'x': labels}
